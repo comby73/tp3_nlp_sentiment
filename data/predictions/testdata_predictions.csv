@@ -1,0 +1,499 @@
+text,text_clean,predicted_sentiment,confidence,true_polarity,true_label,length,num_words,num_hashtags,num_mentions
+"@stellargirl I loooooooovvvvvveee my Kindle2. Not that the DX is cool, but the 2 is fantastic in its own right.",i loovvee my kindle2 not that the dx is cool but the 2 is fantastic in its own right,Positivo,0.512877756869201,4,Positivo,111,20,0,1
+Reading my kindle2...  Love it... Lee childs is good read.,reading my kindle2 love it lee childs is good read,Positivo,0.707713906098381,4,Positivo,58,10,0,0
+"Ok, first assesment of the #kindle2 ...it fucking rocks!!!",ok first assesment of the kindle2 it fucking rocks,Positivo,0.6217184200809784,4,Positivo,58,9,1,0
+@kenburbary You'll love your Kindle2. I've had mine for a few months and never looked back. The new big one is huge! No need for remorse! :),youll love your kindle2 ive had mine for a few months and never looked back the new big one is huge no need for remorse,Positivo,0.638896268842276,4,Positivo,140,27,0,1
+@mikefish  Fair enough. But i have the Kindle2 and I think it's perfect  :),fair enough but i have the kindle2 and i think its perfect,Positivo,0.6265736536252179,4,Positivo,75,14,0,1
+@richardebaker no. it is too big. I'm quite happy with the Kindle2.,no it is too big im quite happy with the kindle2,Negativo,0.47696161489108196,4,Positivo,67,12,0,1
+Fuck this economy. I hate aig and their non loan given asses.,fuck this economy i hate aig and their non loan given asses,Negativo,0.23141519330906024,0,Negativo,61,12,0,0
+Jquery is my new best friend.,jquery is my new best friend,Positivo,0.6036951482535651,4,Positivo,29,6,0,0
+Loves twitter,loves twitter,Positivo,0.7300590969747461,4,Positivo,13,2,0,0
+how can you not love Obama? he makes jokes about himself.,how can you not love obama he makes jokes about himself,Positivo,0.5544404635873417,4,Positivo,57,11,0,0
+Check this video out -- President Obama at the White House Correspondents' Dinner http://bit.ly/IMXUM,check this video out president obama at the white house correspondents dinner,Positivo,0.693061321833686,2,Neutral,101,14,0,0
+"@Karoli I firmly believe that Obama/Pelosi have ZERO desire to be civil.  It's a charade and a slogan, but they want to destroy conservatism",i firmly believe that obamapelosi have zero desire to be civil its a charade and a slogan but they want to destroy conservatism,Negativo,0.39584245010035357,0,Negativo,140,24,0,1
+"House Correspondents dinner was last night whoopi, barbara &amp; sherri went, Obama got a standing ovation",house correspondents dinner was last night whoopi barbara amp sherri went obama got a standing ovation,Positivo,0.6018167106693368,4,Positivo,106,16,0,0
+Watchin Espn..Jus seen this new Nike Commerical with a Puppet Lebron..sh*t was hilarious...LMAO!!!,watchin espnjus seen this new nike commerical with a puppet lebronsht was hilariouslmao,Positivo,0.6517067475461468,4,Positivo,98,13,0,0
+"dear nike, stop with the flywire. that shit is a waste of science. and ugly. love, @vincentx24x",dear nike stop with the flywire that shit is a waste of science and ugly love,Negativo,0.3616079964673843,0,Negativo,95,17,0,1
+"#lebron best athlete of our generation, if not all time (basketball related) I don't want to get into inter-sport debates about   __1/2",lebron best athlete of our generation if not all time basketball related i dont want to get into intersport debates about 12,Negativo,0.45014737729423576,4,Positivo,135,22,1,0
+I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.,i was talking to this guy last night and he was telling me that he is a die hard spurs fan he also told me that he hates lebron james,Negativo,0.3336141419131978,0,Negativo,136,30,0,0
+i love lebron. http://bit.ly/PdHur,i love lebron,Positivo,0.6188468706542264,4,Positivo,34,4,0,0
+"@ludajuice Lebron is a Beast, but I'm still cheering 4 the A..til the end.",lebron is a beast but im still cheering 4 the atil the end,Negativo,0.4819021513694742,0,Negativo,74,14,0,1
+@Pmillzz lebron IS THE BOSS,lebron is the boss,Positivo,0.5554393068233864,4,Positivo,27,5,0,1
+"@sketchbug Lebron is a hometown hero to me, lol I love the Lakers but let's go Cavs, lol",lebron is a hometown hero to me lol i love the lakers but lets go cavs lol,Positivo,0.7060124357510917,4,Positivo,88,18,0,1
+lebron and zydrunas are such an awesome duo,lebron and zydrunas are such an awesome duo,Positivo,0.618458149923712,4,Positivo,43,8,0,0
+@wordwhizkid Lebron is a beast... nobody in the NBA comes even close.,lebron is a beast nobody in the nba comes even close,Negativo,0.461490488175598,4,Positivo,69,12,0,1
+downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.,downloading apps for my iphone so much fun there literally is an app for just about anything,Positivo,0.534121700132829,4,Positivo,98,18,0,0
+"good news, just had a call from the Visa office, saying everything is fine.....what a relief! I am sick of scams out there! Stealing!",good news just had a call from the visa office saying everything is finewhat a relief i am sick of scams out there stealing,Positivo,0.5281659266810916,4,Positivo,133,24,0,0
+http://twurl.nl/epkr4b - awesome come back from @biz (via @fredwilson),awesome come back from via,Positivo,0.7981860630553153,4,Positivo,70,9,0,2
+In montreal for a long weekend of R&amp;R. Much needed.,in montreal for a long weekend of rampr much needed,Positivo,0.6327545133800466,4,Positivo,55,10,0,0
+Booz Allen Hamilton has a bad ass homegrown social collaboration platform. Way cool!  #ttiv,booz allen hamilton has a bad ass homegrown social collaboration platform way cool ttiv,Positivo,0.6250809536528267,4,Positivo,91,14,1,0
+[#MLUC09] Customer Innovation Award Winner: Booz Allen Hamilton -- http://ping.fm/c2hPP,mluc09 customer innovation award winner booz allen hamilton,Positivo,0.6815333810465722,4,Positivo,87,10,1,0
+"@SoChi2 I current use the Nikon D90 and love it, but not as much as the Canon 40D/50D. I chose the D90 for the  video feature. My mistake.",i current use the nikon d90 and love it but not as much as the canon 40d50d i chose the d90 for the video feature my mistake,Negativo,0.3770285832471659,4,Positivo,138,28,0,1
+need suggestions for a good IR filter for my canon 40D ... got some? pls DM,need suggestions for a good ir filter for my canon 40d got some pls dm,Positivo,0.5855345792377066,2,Neutral,75,16,0,0
+@surfit: I just checked my google for my business- blip shows up as the second entry! Huh. Is that a good or ba... ? http://blip.fm/~6emhv,i just checked my google for my business blip shows up as the second entry huh is that a good or ba,Positivo,0.60517277276945,2,Neutral,138,25,0,1
+"@phyreman9 Google is always a good place to look. Should've mentioned I worked on the Mustang w/ my Dad, @KimbleT.",google is always a good place to look shouldve mentioned i worked on the mustang w my dad,Positivo,0.6493595501579446,4,Positivo,114,20,0,2
+Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.,played with an android google phone the slide out screen scares me i would break that fucker so fast still prefer my iphone,Negativo,0.4088236968877858,0,Negativo,126,23,0,0
+US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders,us planning to resume the military tribunals at guantanamo bay only this time those on trial will be aig execs and chrysler debt holders,Positivo,0.6440269224429545,0,Negativo,139,24,0,0
+omg so bored &amp; my tattoooos are so itchy!!  help! aha =),omg so bored amp my tattoos are so itchy help aha,Negativo,0.38254109990886737,0,Negativo,60,12,0,0
+I'm itchy and miserable!,im itchy and miserable,Negativo,0.1772304877914588,0,Negativo,24,4,0,0
+"@sekseemess no. I'm not itchy for now. Maybe later, lol.",no im not itchy for now maybe later lol,Negativo,0.4354449953086362,0,Negativo,56,10,0,1
+RT @jessverr I love the nerdy Stanford human biology videos - makes me miss school. http://bit.ly/13t7NR,rt i love the nerdy stanford human biology videos makes me miss school,Negativo,0.366599998468231,4,Positivo,104,16,0,1
+"@spinuzzi: Has been a bit crazy, with steep learning curve, but LyX is really good for long docs. For anything shorter, it would be insane.",has been a bit crazy with steep learning curve but lyx is really good for long docs for anything shorter it would be insane,Positivo,0.5235297933742552,4,Positivo,139,25,0,1
+"I'm listening to ""P.Y.T"" by Danny Gokey &lt;3 &lt;3 &lt;3 Aww, he's so amazing. I &lt;3 him so much :)",im listening to pyt by danny gokey lt3 lt3 lt3 aww hes so amazing i lt3 him so much,Positivo,0.5406013743155356,4,Positivo,102,20,0,0
+is going to sleep then on a bike ride:],is going to sleep then on a bike ride,Positivo,0.5879675568506697,4,Positivo,39,9,0,0
+cant sleep... my tooth is aching.,cant sleep my tooth is aching,Negativo,0.2069626449900935,0,Negativo,33,6,0,0
+"Blah, blah, blah same old same old. No plans today, going back to sleep I guess.",blah blah blah same old same old no plans today going back to sleep i guess,Negativo,0.42167574190215046,0,Negativo,80,16,0,0
+"glad i didnt do Bay to Breakers today, it's 1000 freaking degrees in San Francisco wtf",glad i didnt do bay to breakers today its 100 freaking degrees in san francisco wtf,Negativo,0.38012028963684125,0,Negativo,86,16,0,0
+is in San Francisco at Bay to Breakers.,is in san francisco at bay to breakers,Positivo,0.5401355501906266,2,Neutral,39,8,0,0
+just landed at San Francisco,just landed at san francisco,Positivo,0.5554060889627067,2,Neutral,28,5,0,0
+San Francisco today.  Any suggestions?,san francisco today any suggestions,Positivo,0.5496293699761262,2,Neutral,38,5,0,0
+?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg,obama administration must stop bonuses to aig ponzi schemers,Positivo,0.5636820660858928,0,Negativo,85,11,0,0
+started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?,started to think that citi is in really deep sampt are they gonna survive the turmoil or are they gonna be the next aig,Negativo,0.4656939317009891,0,Negativo,124,24,0,0
+ShaunWoo hate'n on AiG,shaunwoo haten on aig,Positivo,0.527827958676792,0,Negativo,22,4,0,0
+@YarnThing you will not regret going to see Star Trek. It was AWESOME!,you will not regret going to see star trek it was awesome,Positivo,0.6208353565010349,4,Positivo,70,13,0,1
+On my way to see Star Trek @ The Esquire.,on my way to see star trek the esquire,Positivo,0.6302175525739365,2,Neutral,41,10,0,0
+Going to see star trek soon with my dad.,going to see star trek soon with my dad,Positivo,0.6145443581443802,2,Neutral,40,9,0,0
+annoying new trend on the internets:  people picking apart michael lewis and malcolm gladwell.  nobody wants to read that.,annoying new trend on the internets people picking apart michael lewis and malcolm gladwell nobody wants to read that,Negativo,0.3291153359399202,0,Negativo,122,19,0,0
+Bill Simmons in conversation with Malcolm Gladwell http://bit.ly/j9o50,bill simmons in conversation with malcolm gladwell,Positivo,0.6850884010182171,2,Neutral,70,8,0,0
+Highly recommend: http://tinyurl.com/HowDavidBeatsGoliath by Malcolm Gladwell,highly recommend by malcolm gladwell,Positivo,0.7285964776519496,4,Positivo,77,6,0,0
+Blink by malcolm gladwell amazing book and The tipping point!,blink by malcolm gladwell amazing book and the tipping point,Positivo,0.7203476349943075,4,Positivo,61,10,0,0
+Malcolm Gladwell might be my new man crush,malcolm gladwell might be my new man crush,Positivo,0.6061713176940372,4,Positivo,42,8,0,0
+omg. The commercials alone on ESPN are going to drive me nuts.,omg the commercials alone on espn are going to drive me nuts,Negativo,0.396728218011701,0,Negativo,62,12,0,0
+@robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.,playing with twitter api sounds fun may need to take a class or find a new friend who like to generate results with api code,Positivo,0.5936611234426196,4,Positivo,137,26,0,1
+playing with cURL and the Twitter API,playing with curl and the twitter api,Positivo,0.507701178820628,2,Neutral,37,7,0,0
+Hello Twitter API ;),hello twitter api,Positivo,0.6372035442740904,4,Positivo,20,4,0,0
+playing with Java and the Twitter API,playing with java and the twitter api,Positivo,0.5087210810151778,2,Neutral,37,7,0,0
+@morind45 Because the twitter api is slow and most client's aren't good.,because the twitter api is slow and most clients arent good,Negativo,0.46238619643895174,0,Negativo,72,12,0,1
+yahoo answers can be a butt sometimes,yahoo answers can be a butt sometimes,Positivo,0.5051884652455514,0,Negativo,37,7,0,0
+is scrapbooking with Nic =D,is scrapbooking with nic d,Positivo,0.5207081234341173,4,Positivo,27,5,0,0
+RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR,rt five things wolfram alpha does better and vastly different than google,Positivo,0.6903032397282913,4,Positivo,108,15,0,1
+just changed my default pic to a Nike basketball cause bball is awesome!!!!!,just changed my default pic to a nike basketball cause bball is awesome,Negativo,0.49406227821307896,4,Positivo,76,13,0,0
+"Nike owns NBA Playoffs ads w/ LeBron, Kobe, Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding",nike owns nba playoffs ads w lebron kobe carmelo adidas billups howard marketing branding,Positivo,0.5766087217225809,2,Neutral,118,15,5,0
+"'Next time, I'll call myself Nike'",next time ill call myself nike,Positivo,0.5482360917511586,2,Neutral,34,6,0,0
+New blog post: Nike SB Dunk Low Premium 'White Gum' http://tr.im/lOtT,new blog post nike sb dunk low premium white gum,Positivo,0.5639425008290555,2,Neutral,69,11,0,0
+RT @SmartChickPDX: Was just told that Nike layoffs started today :-(,rt was just told that nike layoffs started today,Negativo,0.4760841740277651,0,Negativo,68,11,0,1
+Back when I worked for Nike we had one fav word : JUST DO IT! :),back when i worked for nike we had one fav word just do it,Positivo,0.6133483742916309,4,Positivo,64,16,0,0
+"By the way, I'm totally inspired by this freaky Nike commercial: http://snurl.com/icgj9",by the way im totally inspired by this freaky nike commercial,Positivo,0.6904749483941275,4,Positivo,87,12,0,0
+"giving weka an app engine interface, using the bird strike data for the tests, the logo is a given.",giving weka an app engine interface using the bird strike data for the tests the logo is a given,Negativo,0.4231128604880404,2,Neutral,99,19,0,0
+"Brand New Canon EOS 50D 15MP DSLR Camera Canon 17-85mm IS Lens ...: Web Technology Thread, Brand New Canon EOS 5.. http://u.mavrev.com/5a3t",brand new canon eos 50d 15mp dslr camera canon 1785mm is lens web technology thread brand new canon eos 5,Positivo,0.598122309309027,2,Neutral,139,22,0,0
+Class... The 50d is supposed to come today :),class the 50d is supposed to come today,Negativo,0.28211637832172887,4,Positivo,45,9,0,0
+needs someone to explain lambda calculus to him! :(,needs someone to explain lambda calculus to him,Negativo,0.4841372195411561,0,Negativo,51,9,0,0
+Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.,took the graduate field exam for computer science today nothing makes you feel like more of an idiot than lambda calculus,Negativo,0.4035908471145455,0,Negativo,124,21,0,0
+SHOUT OUTS TO ALL EAST PALO ALTO FOR BEING IN THE BUILDIN KARIZMAKAZE 50CAL GTA! ALSO THANKS TO PROFITS OF DOOM UNIVERSAL HEMPZ CRACKA......,shout outs to all east palo alto for being in the buildin karizmakaze 50cal gta also thanks to profits of doom universal hempz cracka,Positivo,0.6629906475821274,4,Positivo,140,24,0,0
+"@legalgeekery Yeahhhhhhhhh, I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.",yeahh i wouldnt really have lived in east palo alto if i could have avoided it i guess its only for the summer,Positivo,0.516395266114988,0,Negativo,137,24,0,1
+@accannis @edog1203 Great Stanford course. Thanks for making it available to the public! Really helpful and informative for starting off!,great stanford course thanks for making it available to the public really helpful and informative for starting off,Positivo,0.7867778250409885,4,Positivo,137,20,0,2
+"NVIDIA Names Stanford's Bill Dally Chief Scientist, VP Of Research http://bit.ly/Fvvg9",nvidia names stanfords bill dally chief scientist vp of research,Positivo,0.611860604403829,2,Neutral,86,11,0,0
+New blog post: Harvard Versus Stanford - Who Wins? http://bit.ly/MCoCo,new blog post harvard versus stanford who wins,Positivo,0.7045744220781051,2,Neutral,70,10,0,0
+@ work til 6pm... lets go lakers!!!,work til 6pm lets go lakers,Positivo,0.5709581297822639,4,Positivo,35,7,0,0
+Damn you North Korea. http://bit.ly/KtMeQ,damn you north korea,Negativo,0.3918955086862026,0,Negativo,41,5,0,0
+Can we just go ahead and blow North Korea off the map already?,can we just go ahead and blow north korea off the map already,Positivo,0.5295711180842863,0,Negativo,62,13,0,0
+"North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl",north korea please cease this douchebaggery china doesnt even like you anymore,Negativo,0.2692918060160272,0,Negativo,102,13,0,0
+Why the hell is Pelosi in freakin China? and on whose dime?,why the hell is pelosi in freakin china and on whose dime,Negativo,0.3522959547271557,0,Negativo,59,12,0,0
+"Are YOU burning more cash $$$ than Chrysler and GM? Stop the financial tsunami. Where ""bailout"" means taking a handout!",are you burning more cash than chrysler and gm stop the financial tsunami where bailout means taking a handout,Negativo,0.41658600188331896,0,Negativo,119,20,0,0
+insects have infected my spinach plant :(,insects have infected my spinach plant,Negativo,0.38419802137504316,0,Negativo,41,7,0,0
+wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day.mosquitos are the assholes of insects,wish i could catch every mosquito in the world n burn em slowlythey been bitin the shit outta me 2daymosquitos are the assholes of insects,Negativo,0.3061726793105674,0,Negativo,140,25,0,0
+"just got back from church, and I totally hate insects.",just got back from church and i totally hate insects,Negativo,0.43455542868173014,0,Negativo,54,10,0,0
+Just got mcdonalds goddam those eggs make me sick. O yeah Laker up date go lakers. Not much of an update? Well it's true so suck it,just got mcdonalds goddam those eggs make me sick o yeah laker up date go lakers not much of an update well its true so suck it,Negativo,0.3881768911041886,0,Negativo,131,27,0,0
+omgg i ohhdee want mcdonalds damn i wonder if its open lol =],omgg i ohhdee want mcdonalds damn i wonder if its open lol,Negativo,0.3641610070258774,4,Positivo,61,13,0,0
+History exam studying ugh,history exam studying ugh,Negativo,0.22065665752920974,0,Negativo,25,4,0,0
+"I hate revision, it's so boring! I am totally unprepared for my exam tomorrow :( Things are not looking good...",i hate revision its so boring i am totally unprepared for my exam tomorrow things are not looking good,Negativo,0.12370809620240128,0,Negativo,111,20,0,0
+"Higher physics exam tommorow, not lookin forward to it much :(",higher physics exam tommorow not lookin forward to it much,Negativo,0.44888435996328946,0,Negativo,62,11,0,0
+"It's a bank holiday, yet I'm only out of work now. Exam season sucks:(",its a bank holiday yet im only out of work now exam season sucks,Negativo,0.2158814883713166,0,Negativo,70,14,0,0
+Cheney and Bush are the real culprits - http://fwix.com/article/939496,cheney and bush are the real culprits,Positivo,0.6301304620160495,0,Negativo,70,9,0,0
+Life?s a bitch? and so is Dick Cheney. #p2 #bipart #tlot #tcot #hhrs #GOP #DNC http://is.gd/DjyQ,lifes a bitch and so is dick cheney p2 bipart tlot tcot hhrs gop dnc,Positivo,0.6696689134185603,0,Negativo,96,16,7,0
+"Dick Cheney's dishonest speech about torture, terror, and Obama. -Fred Kaplan Slate. http://is.gd/DiHg",dick cheneys dishonest speech about torture terror and obama fred kaplan slate,Positivo,0.5237709636892804,0,Negativo,102,13,0,0
+"""The Republican party is a bunch of anti-abortion zealots who couldn't draw flies to a dump."" -- Neal Boortz (just now, on the radio)",the republican party is a bunch of antiabortion zealots who couldnt draw flies to a dump neal boortz just now on the radio,Positivo,0.5183587238018954,0,Negativo,133,24,0,0
+is Twitter's connections API broken? Some tweets didn't make it to Twitter...,is twitters connections api broken some tweets didnt make it to twitter,Negativo,0.26666877681952417,0,Negativo,77,12,0,0
+"i srsly hate the stupid twitter API timeout thing, soooo annoying!!!!! :(",i srsly hate the stupid twitter api timeout thing soo annoying,Negativo,0.21875331404463777,0,Negativo,73,12,0,0
+"@psychemedia I really liked @kswedberg's ""Learning jQuery"" book. http://bit.ly/pg0lT is worth a look too",i really liked s learning jquery book is worth a look too,Positivo,0.7400545473849272,4,Positivo,104,14,0,2
+jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631,jquery ui 16 book review,Positivo,0.6475701602252849,2,Neutral,58,7,0,0
+"Very Interesting Ad from Adobe by Goodby, Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT",very interesting ad from adobe by goodby silverstein amp partners youtube adobe cs4 le sens propre,Positivo,0.6263796589423845,4,Positivo,126,19,0,0
+Goodby Silverstein agency new site! http://www.goodbysilverstein.com/ Great!,goodby silverstein agency new site great,Positivo,0.7481065862858404,4,Positivo,76,7,0,0
+"RT @designplay Goodby, Silverstein's new site: http://www.goodbysilverstein.com/ I enjoy it. *nice find!*",rt goodby silversteins new site i enjoy it nice find,Positivo,0.8073244403432881,4,Positivo,105,12,0,1
+The ever amazing Psyop and Goodby Silverstein &amp; Partners for HP! http://bit.ly/g2rU8 Have to go play with After Effects now!,the ever amazing psyop and goodby silverstein amp partners for hp have to go play with after effects now,Positivo,0.6384514506156663,4,Positivo,128,20,0,0
+top ten most watched on Viral-Video Chart.  Love the nike #mostvaluablepuppets campaign from Wieden &amp; Kennedy http://bit.ly/nR1n9,top ten most watched on viralvideo chart love the nike mostvaluablepuppets campaign from wieden amp kennedy,Positivo,0.7420703703417665,4,Positivo,133,17,1,0
+zomg!!! I have a G2!!!!!!!,zomg i have a g2,Positivo,0.5517761954899795,4,Positivo,26,5,0,0
+Ok so lots of buzz from IO2009 but how lucky are they - a Free G2!! http://is.gd/Hyzl,ok so lots of buzz from io2009 but how lucky are they a free g2,Positivo,0.552378127529623,4,Positivo,85,17,0,0
+just got a free G2 android at google i/o!!!,just got a free g2 android at google io,Positivo,0.6951414206659771,4,Positivo,43,9,0,0
+Guess I'll be retiring my G1 and start using my developer G2 woot #googleio,guess ill be retiring my g1 and start using my developer g2 woot googleio,Positivo,0.6088290342460094,4,Positivo,75,14,1,0
+At GWT fireside chat @googleio,at gwt fireside chat,Positivo,0.6012719413999902,2,Neutral,30,5,0,1
+I am happy for Philip being at GoogleIO today,i am happy for philip being at googleio today,Positivo,0.7512961469134884,4,Positivo,45,9,0,0
+Lakers played great!  Cannot wait for Thursday night Lakers vs. ???,lakers played great cannot wait for thursday night lakers vs,Positivo,0.7192754419076428,4,Positivo,67,11,0,0
+"Hi there, does anyone have a great source for advice on viral marketing?... http://link.gs/YtZ8",hi there does anyone have a great source for advice on viral marketing,Positivo,0.7438401767962469,2,Neutral,95,14,0,0
+Judd Apatow creates fake sitcom on NBC.com to market his new movie... viral marketing at its best. http://is.gd/K0yK,judd apatow creates fake sitcom on nbccom to market his new movie viral marketing at its best,Positivo,0.7083202971176831,4,Positivo,116,18,0,0
+"Here's A case study on how to use viral marketing to add over 10,000 people to your list http://snipr.com/i50oz",heres a case study on how to use viral marketing to add over 1000 people to your list,Positivo,0.6565308133708195,2,Neutral,111,19,0,0
+VIRAL MARKETING FAIL. This Acia Pills brand oughta get shut down for hacking into people's messenger's.  i get 5-6 msgs in a day! Arrrgh!,viral marketing fail this acia pills brand oughta get shut down for hacking into peoples messengers i get 56 msgs in a day arrgh,Negativo,0.38729013856119093,0,Negativo,137,24,0,0
+watching Night at The Museum . Lmao,watching night at the museum lmao,Positivo,0.7055291515424866,4,Positivo,35,7,0,0
+i loved night at the museum!!!,i loved night at the museum,Positivo,0.6790523392636469,4,Positivo,30,6,0,0
+going to see the new night at the museum  movie with my family oh boy a three year old in the movies fuin,going to see the new night at the museum movie with my family oh boy a three year old in the movies fuin,Positivo,0.659098044251003,2,Neutral,105,23,0,0
+just got back from the movies.  went to see the new night at the museum with rachel.  it was good,just got back from the movies went to see the new night at the museum with rachel it was good,Positivo,0.705436345812602,4,Positivo,97,20,0,0
+Just saw the new Night at the Museum movie...it was...okay...lol 7\10,just saw the new night at the museum movieit wasokaylol 710,Positivo,0.6496705700938312,2,Neutral,69,11,0,0
+Going to see night at the museum 2 with tall boy,going to see night at the museum 2 with tall boy,Positivo,0.6627594687114982,2,Neutral,48,11,0,0
+@shannyoday I will take you on a date to see night at the museum 2 whenever you want...it looks soooooo good,i will take you on a date to see night at the museum 2 whenever you wantit looks soo good,Positivo,0.707928429572992,4,Positivo,108,21,0,1
+no watching The Night At The Museum. Getting Really Good,no watching the night at the museum getting really good,Positivo,0.6013044154507381,4,Positivo,56,10,0,0
+"Night at the Museum, Wolverine and junk food - perfect monday!",night at the museum wolverine and junk food perfect monday,Positivo,0.6497905783106843,4,Positivo,62,11,0,0
+saw night at the museum 2 last night.. pretty crazy movie.. but the cast was awesome so it was well worth it. Robin Williams forever!,saw night at the museum 2 last night pretty crazy movie but the cast was awesome so it was well worth it robin williams forever,Positivo,0.7347940037618839,4,Positivo,133,25,0,0
+I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.,i saw night at the museum battle of the swithsonian today it was okay your typical kids ben stiller movie,Positivo,0.6159189110176896,2,Neutral,111,20,0,0
+Taking Katie to see Night at the Museum.  (she picked it),taking katie to see night at the museum she picked it,Positivo,0.6171283077347282,2,Neutral,57,11,0,0
+Night at the Museum tonite instead of UP. :( oh well. that 4 yr old better enjoy it. LOL,night at the museum tonite instead of up oh well that 4 yr old better enjoy it lol,Positivo,0.6327210202657885,0,Negativo,88,19,0,0
+GM says expects announcment on sale of Hummer soon - Reuters: WDSUGM says expects announcment on sale of Hummer .. http://bit.ly/4E1Fv,gm says expects announcment on sale of hummer soon reuters wdsugm says expects announcment on sale of hummer,Positivo,0.5069531061179056,2,Neutral,134,21,0,0
+It's unfortunate that after the Stimulus plan was put in place twice to help GM on the back of the American people has led to the inevitable,its unfortunate that after the stimulus plan was put in place twice to help gm on the back of the american people has led to the inevitable,Negativo,0.3442122060744746,0,Negativo,140,27,0,0
+Tell me again why we are giving more $$ to GM?? We should use that $ for all the programs that support the unemployed.,tell me again why we are giving more to gm we should use that for all the programs that support the unemployed,Negativo,0.4210848116877502,0,Negativo,118,24,0,0
+@jdreiss oh yes but if GM dies it will only be worth more boo hahaha,oh yes but if gm dies it will only be worth more boo hahaha,Negativo,0.4628605036699357,0,Negativo,68,15,0,1
+Time Warner cable is down again 3rd time since Memorial Day bummer!,time warner cable is down again 3rd time since memorial day bummer,Negativo,0.39173745502902685,0,Negativo,67,12,0,0
+"I would rather pay reasonable yearly taxes for ""free"" fast internet, than get gouged by Time Warner for a slow connection.",i would rather pay reasonable yearly taxes for free fast internet than get gouged by time warner for a slow connection,Negativo,0.4120416292882242,0,Negativo,122,21,0,0
+NOOOOOOO my DVR just died and I was only half way through the EA presser. Hate you Time Warner,noo my dvr just died and i was only half way through the ea presser hate you time warner,Negativo,0.19091571252787895,0,Negativo,94,19,0,0
+F*ck Time Warner Cable!!! You f*cking suck balls!!! I have a $700 HD tv &amp; my damn HD channels hardly ever come in. Bullshit!!,fck time warner cable you fcking suck balls i have a 700 hd tv amp my damn hd channels hardly ever come in bullshit,Negativo,0.2802823740755054,0,Negativo,129,24,0,0
+time warner has the worse customer service ever. I will never use them again,time warner has the worse customer service ever i will never use them again,Negativo,0.3623936101469514,0,Negativo,76,14,0,0
+Time warner is the devil. Worst possible time for the Internet to go out.,time warner is the devil worst possible time for the internet to go out,Negativo,0.3767537461432696,0,Negativo,73,14,0,0
+Fuck no internet damn time warner!,fuck no internet damn time warner,Negativo,0.2018144640316267,0,Negativo,34,6,0,0
+time warner really picks the worst time to not work. all i want to do is get to mtv.com so i can watch the hills. wtfffff.,time warner really picks the worst time to not work all i want to do is get to mtvcom so i can watch the hills wtff,Negativo,0.28037383060873855,0,Negativo,122,26,0,0
+I hate Time Warner! Soooo wish I had Vios. Cant watch the fricken Mets game w/o buffering. I feel like im watching free internet porn.,i hate time warner soo wish i had vios cant watch the fricken mets game wo buffering i feel like im watching free internet porn,Negativo,0.2592232192595146,0,Negativo,134,25,0,0
+Ahh...got rid of stupid time warner today &amp; now taking a nap while the roomies cook for me. Pretty good end for a monday :),ahhgot rid of stupid time warner today amp now taking a nap while the roomies cook for me pretty good end for a monday,Negativo,0.4673484022501703,0,Negativo,127,25,0,0
+Time Warner's HD line up is crap.,time warners hd line up is crap,Negativo,0.3995289560433357,0,Negativo,33,7,0,0
+is being fucked by time warner cable. didnt know modems could explode. and Susan Boyle sucks too!,is being fucked by time warner cable didnt know modems could explode and susan boyle sucks too,Negativo,0.2205723656908668,0,Negativo,97,17,0,0
+Time Warner Cable Pulls the Plug on 'The Girlfriend Experience' - (www.tinyurl.com/m595fk),time warner cable pulls the plug on the girlfriend experience,Positivo,0.55856104413663,2,Neutral,90,12,0,0
+Time Warner Cable slogan: Where calling it a day at 2pm Happens.,time warner cable slogan where calling it a day at 2pm happens,Negativo,0.4207554788097036,0,Negativo,64,12,0,0
+"Rocawear Heads to China, Building 300 Stores  - http://tinyurl.com/nofet3",rocawear heads to china building 300 stores,Positivo,0.5021144904321063,2,Neutral,73,9,0,0
+"Climate focus turns to Beijing: The United Nations, the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n",climate focus turns to beijing the united nations the us and european governments have called on china to coo,Positivo,0.5233723598656534,2,Neutral,140,20,0,0
+myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba,myfoxdc barrie students back from trip to china a silver spring high schools class trip to china has en,Positivo,0.5754985190230775,2,Neutral,133,20,0,0
+"Three China aerospace giants develop Tianjin Binhai  New Area,  22.9 B yuan invested   http://bit.ly/mMiDv",three china aerospace giants develop tianjin binhai new area 229 b yuan invested,Positivo,0.5195437565680416,2,Neutral,106,14,0,0
+http://xi.gs/04FO GM CEO: China will continue to be key partner,gm ceo china will continue to be key partner,Positivo,0.5072214446410245,2,Neutral,63,10,0,0
+RT @LATimesautos is now the time to buy a GM car? http://bit.ly/nRzlu,rt is now the time to buy a gm car,Positivo,0.5535812799704539,2,Neutral,69,12,0,1
+Recovering from surgery..wishing @julesrenner was here :(,recovering from surgerywishing was here,Positivo,0.5817885249300198,0,Negativo,57,7,0,1
+"My wrist still hurts. I have to get it looked at. I HATE the dr/dentist/scary places. :( Time to watch Eagle eye. If you want to join, txt!",my wrist still hurts i have to get it looked at i hate the drdentistscary places time to watch eagle eye if you want to join txt,Negativo,0.2402468315711223,4,Positivo,139,28,0,0
+Dentist tomorrow. Have to brush well in the morning. Like I make my hair all nice before I get it cut. Why?,dentist tomorrow have to brush well in the morning like i make my hair all nice before i get it cut why,Negativo,0.49556124852204836,2,Neutral,107,22,0,0
+"THE DENTIST LIED! "" U WON'T FEEL ANY DISCOMORT! PROB WON'T EVEN NEED PAIN PILLS"" MAN U TWIPPIN THIS SHIT HURT!! HOW MANY PILLS CAN I TAKE!!",the dentist lied u wont feel any discomort prob wont even need pain pills man u twippin this shit hurt how many pills can i take,Negativo,0.11342475868859513,0,Negativo,139,27,0,0
+@kirstiealley my dentist is great but she's expensive...=(,my dentist is great but shes expensive,Negativo,0.308012276411702,0,Negativo,58,8,0,1
+@kirstiealley Pet Dentist http://www.funnyville.com/fv/pictures/dogdentures.shtml,pet dentist,Negativo,0.45375792095258877,2,Neutral,81,4,0,1
+is studing math ;) tomorrow exam and dentist :),is studing math tomorrow exam and dentist,Negativo,0.2742869286689604,4,Positivo,47,9,0,0
+my dentist was wrong... WRONG,my dentist was wrong wrong,Negativo,0.24188654752297045,0,Negativo,29,5,0,0
+Going to the dentist later.:|,going to the dentist later,Negativo,0.43196161517314163,0,Negativo,29,5,0,0
+Son has me looking at cars online.  I hate car shopping.  Would rather go to the dentist!  Anyone with a good car at a good price to sell?,son has me looking at cars online i hate car shopping would rather go to the dentist anyone with a good car at a good price to sell,Negativo,0.34910568638307515,0,Negativo,138,28,0,0
+NCAA Baseball Super Regional - Rams Club http://bit.ly/Ro7nx,ncaa baseball super regional rams club,Positivo,0.5673280189545762,2,Neutral,60,8,0,0
+just started playing Major League Baseball 2K9. http://raptr.com/H3LLGWAR,just started playing major league baseball 2k9,Positivo,0.56311912425828,2,Neutral,73,8,0,0
+Cardinals baseball advance to Super Regionals. Face CS-Fullerton Friday.,cardinals baseball advance to super regionals face csfullerton friday,Positivo,0.6017735572395806,2,Neutral,72,9,0,0
+Sony coupon code.. Expires soon.. http://www.coupondork.com/r/1796,sony coupon code expires soon,Positivo,0.587823448786084,2,Neutral,66,6,0,0
+waiting in line at safeway.,waiting in line at safeway,Negativo,0.49792253818353566,2,Neutral,27,5,0,0
+luke and i got stopped walking out of safeway and asked to empty our pockets and lift our shirts. how jacked up is that?,luke and i got stopped walking out of safeway and asked to empty our pockets and lift our shirts how jacked up is that,Negativo,0.48930589272362135,0,Negativo,120,24,0,0
+Did not realize there is a gym above Safeway!,did not realize there is a gym above safeway,Negativo,0.36969041619446835,2,Neutral,45,9,0,0
+"@XPhile1908 I have three words for you: ""Safeway dot com""",i have three words for you safeway dot com,Positivo,0.5586254744055548,2,Neutral,57,10,0,1
+Safeway is very rock n roll tonight,safeway is very rock n roll tonight,Positivo,0.6536139388757185,4,Positivo,35,7,0,0
+Bout to hit safeway I gotta eat,bout to hit safeway i gotta eat,Negativo,0.49966110736584607,2,Neutral,31,7,0,0
+Jake's going to safeway!,jakes going to safeway,Positivo,0.6002051059108976,2,Neutral,24,4,0,0
+Found a safeway. Picking up a few staples.,found a safeway picking up a few staples,Positivo,0.5532017496610548,2,Neutral,42,8,0,0
+Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w,safeway supermarketing via mobile coupons,Positivo,0.5474962341875143,2,Neutral,62,6,0,0
+The safeway bathroom still smells like ass!,the safeway bathroom still smells like ass,Negativo,0.43033462249260346,0,Negativo,43,7,0,0
+"At safeway on elkhorn, they move like they're dead!",at safeway on elkhorn they move like theyre dead,Negativo,0.3774144306887928,0,Negativo,51,9,0,0
+Your Normal Weight (and How to Get There) ? Normal Eating Blog http://bit.ly/ZeT8O,your normal weight and how to get there normal eating blog,Positivo,0.6338479656521852,2,Neutral,82,13,0,0
+Is Eating and Watching Movies....,is eating and watching movies,Positivo,0.6442244479702788,2,Neutral,33,5,0,0
+eating sashimi,eating sashimi,Positivo,0.6355484818496281,2,Neutral,14,2,0,0
+is eating  home made yema,is eating home made yema,Positivo,0.5969387610069072,2,Neutral,25,5,0,0
+eating cake,eating cake,Positivo,0.6243341637219113,2,Neutral,11,2,0,0
+i love Dwight Howard's vitamin water commercial... now i wish he was with NIKE and not adidas. lol.,i love dwight howards vitamin water commercial now i wish he was with nike and not adidas lol,Negativo,0.4814665847918718,4,Positivo,99,18,0,0
+Found NOTHING at Nike Factory :/ Off to Banana Republic Outlet! http://myloc.me/2zic,found nothing at nike factory off to banana republic outlet,Positivo,0.5398255857882939,0,Negativo,84,12,0,0
+iPhone May Get Radio Tagging and Nike  : Recently-released iTunes version 8.2 suggests that VoiceOver functional.. http://tinyurl.com/oq5ctc,iphone may get radio tagging and nike recentlyreleased itunes version 82 suggests that voiceover functional,Negativo,0.4975184116385455,2,Neutral,140,17,0,0
+is lovin his Nike  already and that's only from running on the spot in his bedroom,is lovin his nike already and thats only from running on the spot in his bedroom,Positivo,0.6585304787283575,4,Positivo,82,16,0,0
+Launched! http://imgsearch.net  #imgsearch #ajax #jquery #webapp,launched imgsearch ajax jquery webapp,Positivo,0.5776719801699146,2,Neutral,64,6,4,0
+@matthewcyan I finally got around to using jquery to make my bio collapse. Yay for slide animations.,i finally got around to using jquery to make my bio collapse yay for slide animations,Positivo,0.759128504982846,4,Positivo,100,17,0,1
+RT @jquery: The Ultimate jQuery List - http://jquerylist.com/,rt the ultimate jquery list,Positivo,0.6668837073235351,2,Neutral,61,8,0,1
+I just extracted and open-sourced a jQuery plugin from Stormweight to highlight text with a regular expression: http://bit.ly/ybJKb,i just extracted and opensourced a jquery plugin from stormweight to highlight text with a regular expression,Positivo,0.6691979158694258,2,Neutral,131,18,0,0
+@anna_debenham what was the php jquery hack?,what was the php jquery hack,Positivo,0.5617558968468752,2,Neutral,44,7,0,1
+jQuery Cheat Sheet http://www.javascripttoolbox.com/jquery/cheatsheet/,jquery cheat sheet,Positivo,0.5603918019300458,2,Neutral,70,4,0,0
+Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5,beginning javascript and css development with jquery javascript css jquery,Positivo,0.5563021460649072,2,Neutral,97,11,3,0
+"@PDubyaD right!!! LOL we'll get there!! I have high expectations, Warren Buffet style.",right lol well get there i have high expectations warren buffet style,Positivo,0.670946016526362,4,Positivo,86,13,0,1
+"RT @blknprecious1: RT GREAT @dbroos ""Someone's sitting in the shade today because someone planted a tree a long time ago.""- Warren Buffet",rt rt great someones sitting in the shade today because someone planted a tree a long time ago warren buffet,Positivo,0.6386973175722506,4,Positivo,137,22,0,2
+Warren Buffet on the economy http://ping.fm/Lau0p,warren buffet on the economy,Negativo,0.4867140704803074,2,Neutral,49,6,0,0
+"Warren Buffet became (for a time) the richest man in the United States, not by working but investing in 1 Big idea which lead to the fortune",warren buffet became for a time the richest man in the united states not by working but investing in 1 big idea which lead to the fortune,Negativo,0.41890249755240444,4,Positivo,140,27,0,0
+"According to the create a school, Notre Dame will have 7 receivers in NCAA 10 at 84 or higher rating :) *sweet*",according to the create a school notre dame will have 7 receivers in ncaa 10 at 84 or higher rating sweet,Positivo,0.6217531296901153,4,Positivo,111,22,0,0
+All-Star Basketball Classic Tuesday Features Top Talent: Chattanooga's Notre Dame High School will play host.. http://bit.ly/qltJA,allstar basketball classic tuesday features top talent chattanoogas notre dame high school will play host,Positivo,0.6224348433256406,2,Neutral,130,16,0,0
+@BlondeBroad it's definitely under warranty &amp; my experience is the amazon support for kindle is great! had to contact them about my kindle2,its definitely under warranty amp my experience is the amazon support for kindle is great had to contact them about my kindle2,Positivo,0.6767857252035132,4,Positivo,143,23,0,1
+"RT Look, Available !Amazon Kindle2 &amp; Kindle DX, Get it Here: http://short.to/87ub The Top Electronic Book Reader Period, free 2 day ship ...",rt look available amazon kindle2 amp kindle dx get it here the top electronic book reader period free 2 day ship,Positivo,0.5576774358111652,2,Neutral,144,23,0,0
+Time Warner Road Runner customer support here absolutely blows. I hate not having other high-speed net options. I'm ready to go nuclear.,time warner road runner customer support here absolutely blows i hate not having other highspeed net options im ready to go nuclear,Negativo,0.325269213010399,0,Negativo,136,22,0,0
+Time Warner cable phone reps r dumber than nails!!!!! UGH! Cable was working 10 mins ago now its not WTF!,time warner cable phone reps r dumber than nails ugh cable was working 10 mins ago now its not wtf,Negativo,0.22214289278195062,0,Negativo,105,20,0,0
+@siratomofbones we tried but Time Warner wasn't being nice so we recorded today. :),we tried but time warner wasnt being nice so we recorded today,Negativo,0.4290205412592713,0,Negativo,83,14,0,1
+OMG - time warner f'ed up my internet install - instead of today  its now NEXT saturday - another week w/o internet! &amp;$*ehfa^V9fhg[*# fml.,omg time warner fed up my internet install instead of today its now next saturday another week wo internet ampehfav9fhg fml,Negativo,0.19991005663680658,0,Negativo,142,24,0,0
+"wth..i have never seen a line this loooong at time warner before, ugh.",wthi have never seen a line this loong at time warner before ugh,Negativo,0.36150477804746056,0,Negativo,70,13,0,0
+Impatiently awaiting the arrival of the time warner guy. It's way too pretty to be inside all afternoon,impatiently awaiting the arrival of the time warner guy its way too pretty to be inside all afternoon,Positivo,0.5427125822389464,0,Negativo,103,18,0,0
+Man accosts Roger Federer during French Open http://ff.im/3HCPT,man accosts roger federer during french open,Positivo,0.6670079708721028,2,Neutral,63,8,0,0
+Naive Bayes using EM for Text Classification. Really Frustrating...,naive bayes using em for text classification really frustrating,Negativo,0.4029799873391551,0,Negativo,67,9,0,0
+We went to Stanford University today. Got a tour. Made me want to go back to college. It's also decided all of our kids will go there.,we went to stanford university today got a tour made me want to go back to college its also decided all of our kids will go there,Negativo,0.43136939846617456,4,Positivo,134,27,0,0
+Investigation pending on death of Stanford CS prof / Google mentor Rajeev Motwani http://bit.ly/LwOUR tip @techmeme,investigation pending on death of stanford cs prof google mentor rajeev motwani tip,Positivo,0.5837690591858476,2,Neutral,115,16,0,1
+"I'm going to bed. It was a successful weekend. Stanford, here I come.",im going to bed it was a successful weekend stanford here i come,Positivo,0.6176506645328771,2,Neutral,69,13,0,0
+"@KarrisFoxy If you're being harassed by calls about your car warranty, changing your number won't fix that. They call every number. #d-bags",if youre being harassed by calls about your car warranty changing your number wont fix that they call every number dbags,Negativo,0.4971440283705876,0,Negativo,139,22,1,1
+Just blocked United Blood Services using Google Voice. They call more than those Car Warranty guys.,just blocked united blood services using google voice they call more than those car warranty guys,Negativo,0.4669118060344806,0,Negativo,99,16,0,0
+#at&amp;t is complete fail.,atampt is complete fail,Negativo,0.2903882914826539,0,Negativo,27,4,1,0
+@broskiii OH SNAP YOU WORK AT AT&amp;T DON'T YOU,oh snap you work at atampt dont you,Negativo,0.30202502702222034,0,Negativo,48,9,0,1
+@Mbjthegreat i really dont want AT&amp;T phone service..they suck when it comes to having a signal,i really dont want atampt phone servicethey suck when it comes to having a signal,Negativo,0.21207875247077446,0,Negativo,98,16,0,1
+"I say we just cut out the small talk: AT&amp;T's new slogan: F__k you, give us your money. (Apologies to Bob Geldof.)",i say we just cut out the small talk atampts new slogan fk you give us your money apologies to bob geldof,Negativo,0.4888726835759207,0,Negativo,117,22,0,0
+pissed about at&amp;t's mid-contract upgrade price for the iPhone (it's $200 more) I'm not going to pay $499 for something I thought was $299,pissed about atampts midcontract upgrade price for the iphone its 200 more im not going to pay 499 for something i thought was 299,Negativo,0.21654730343927628,0,Negativo,141,24,0,0
+Safari 4 is fast :) Even on my shitty AT&amp;T tethering.,safari 4 is fast even on my shitty atampt tethering,Negativo,0.2545716278174002,0,Negativo,57,11,0,0
+@ims What is AT&amp;T fucking up?,what is atampt fucking up,Negativo,0.333852913412125,0,Negativo,33,6,0,1
+@springsingfiend @dvyers @sethdaggett @jlshack AT&amp;T dropped the ball and isn't supporting crap with the new iPhone 3.0... FAIL #att SUCKS!!!,atampt dropped the ball and isnt supporting crap with the new iphone 30 fail att sucks,Negativo,0.19758683663375518,0,Negativo,144,20,1,4
+"@MMBarnhill yay, glad you got the phone! Still, damn you, AT&amp;T.",yay glad you got the phone still damn you atampt,Positivo,0.5695617049555959,0,Negativo,67,11,0,1
+Google Wave Developer Sandbox Account Request http://bit.ly/2NYlc,google wave developer sandbox account request,Positivo,0.7205487448670188,2,Neutral,65,7,0,0
+"Talk is Cheap: Bing that, I?ll stick with Google. http://bit.ly/XC3C8",talk is cheap bing that ill stick with google,Positivo,0.7073173149892802,0,Negativo,69,10,0,0
+"@defsounds WTF is the point of deleting tweets if they can still be found in summize and searches? Twitter, please fix that. Thanks and bye",wtf is the point of deleting tweets if they can still be found in summize and searches twitter please fix that thanks and bye,Negativo,0.4756428021700371,0,Negativo,139,25,0,1
+@mattcutts have google profiles stopped showing up in searches? cant see them anymore,have google profiles stopped showing up in searches cant see them anymore,Negativo,0.34239420278861454,2,Neutral,85,13,0,1
+@ArunBasilLal I love Google Translator too ! :D Good day mate !,i love google translator too d good day mate,Positivo,0.6692181507405055,4,Positivo,63,12,0,1
+reading on my new Kindle2!,reading on my new kindle2,Positivo,0.6744717255666003,4,Positivo,26,5,0,0
+My Kindle2 came and I LOVE it! :),my kindle2 came and i love it,Positivo,0.6291294496091056,4,Positivo,33,8,0,0
+"LOVING my new Kindle2.  Named her Kendra in case u were wondering. The ""cookbook"" is THE tool cuz it tells u all the tricks!  Best gift EVR!",loving my new kindle2 named her kendra in case u were wondering the cookbook is the tool cuz it tells u all the tricks best gift evr,Positivo,0.6525533992582943,4,Positivo,140,27,0,0
+The real AIG scandal / http://bit.ly/b82Px,the real aig scandal,Positivo,0.5933078067923376,0,Negativo,42,6,0,0
+Any twitter to aprs apps yet?,any twitter to aprs apps yet,Negativo,0.47539040476010025,2,Neutral,29,6,0,0
+45 Pros You Should Be Following on Twitter - http://is.gd/sMbZ,45 pros you should be following on twitter,Positivo,0.6093654308605205,2,Neutral,62,10,0,0
+Obama is quite a good comedian! check out his dinner speech on CNN :) very funny jokes.,obama is quite a good comedian check out his dinner speech on cnn very funny jokes,Positivo,0.6811420857423623,4,Positivo,87,17,0,0
+"' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !! Great speech..",barack obama shows his funny side gtgt great speech,Positivo,0.6992095244806694,4,Positivo,82,13,0,0
+"I like this guy : ' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !!",i like this guy barack obama shows his funny side gtgt,Positivo,0.6739921480391715,4,Positivo,85,16,0,0
+Obama's speech was pretty awesome last night! http://bit.ly/IMXUM,obamas speech was pretty awesome last night,Positivo,0.6934440658355708,4,Positivo,65,8,0,0
+"Reading  ""Bill Clinton Fail - Obama Win?"" http://tinyurl.com/pcyxj7",reading bill clinton fail obama win,Positivo,0.5295716084552341,4,Positivo,67,8,0,0
+Obama More Popular Than U.S. Among Arabs: Survey: President Barack Obama's popularity in leading Arab countries .. http://tinyurl.com/prlvqu,obama more popular than us among arabs survey president barack obamas popularity in leading arab countries,Positivo,0.6454841210931161,4,Positivo,140,18,0,0
+Obama's got JOKES!! haha just got to watch a bit of his after dinner speech from last night... i'm in love with mr. president ;),obamas got jokes haha just got to watch a bit of his after dinner speech from last night im in love with mr president,Positivo,0.6847021260548846,4,Positivo,128,25,0,0
+LEbron james got in a car accident i guess..just heard it on evening news...wow i cant believe it..will he be ok ? http://twtad.com/69750,lebron james got in a car accident i guessjust heard it on evening newswow i cant believe itwill he be ok,Negativo,0.34947375198739183,0,Negativo,137,23,0,0
+is it me or is this the best the playoffs have been in years oh yea lebron and melo in the finals,is it me or is this the best the playoffs have been in years oh yea lebron and melo in the finals,Negativo,0.4802353203971492,4,Positivo,97,22,0,0
+"@khalid0456 No, Lebron is the best",no lebron is the best,Positivo,0.5020497949282571,4,Positivo,34,6,0,1
+@the_real_usher LeBron is cool.  I like his personality...he has good character.,lebron is cool i like his personalityhe has good character,Positivo,0.7416024459259623,4,Positivo,80,11,0,1
+Watching Lebron highlights. Damn that niggas good,watching lebron highlights damn that niggas good,Positivo,0.5387167435488117,4,Positivo,49,7,0,0
+@Lou911 Lebron is MURDERING shit.,lebron is murdering shit,Negativo,0.45182643550919444,4,Positivo,33,5,0,1
+@uscsports21 LeBron is a monsta and he is only 24. SMH The world ain't ready.,lebron is a monsta and he is only 24 smh the world aint ready,Negativo,0.41327546159590656,4,Positivo,77,15,0,1
+@cthagod when Lebron is done in the NBA he will probably be greater than Kobe. Like u said Kobe is good but there alot of 'good' players.,when lebron is done in the nba he will probably be greater than kobe like u said kobe is good but there alot of good players,Positivo,0.6136721914920363,4,Positivo,137,27,0,1
+KOBE IS GOOD BT LEBRON HAS MY VOTE,kobe is good bt lebron has my vote,Positivo,0.5812781899959633,4,Positivo,34,8,0,0
+Kobe is the best in the world not lebron .,kobe is the best in the world not lebron,Positivo,0.5750402310979096,0,Negativo,42,10,0,0
+"@asherroth World Cup 2010 Access?? Damn, that's a good look!",world cup 2010 access damn thats a good look,Positivo,0.5519964303695629,4,Positivo,60,10,0,1
+Just bought my tickets for the 2010 FIFA World Cup in South Africa. Its going to be a great summer. http://bit.ly/9GEZI,just bought my tickets for the 2010 fifa world cup in south africa its going to be a great summer,Positivo,0.6908035694249837,4,Positivo,119,21,0,0
+Share: Disruption...Fred Wilson's slides for his talk at Google HQ  http://bit.ly/Bo8PG,share disruptionfred wilsons slides for his talk at google hq,Positivo,0.6582812814500681,2,Neutral,87,11,0,0
+I have to go to Booz Allen Hamilton for a 2hr meeting :(  But then i get to go home :),i have to go to booz allen hamilton for a 2hr meeting but then i get to go home,Negativo,0.4681902765984872,0,Negativo,86,21,0,0
+"The great Indian tamasha truly will unfold from May 16, the result day for Indian General Election.",the great indian tamasha truly will unfold from may 16 the result day for indian general election,Positivo,0.553084995713011,4,Positivo,99,17,0,0
+"@crlane I have the Kindle2. I've seen pictures of the DX, but haven't seen it in person. I love my Kindle - I'm on it everyday.",i have the kindle2 ive seen pictures of the dx but havent seen it in person i love my kindle im on it everyday,Negativo,0.44177774223126426,4,Positivo,127,26,0,1
+@criticalpath Such an awesome idea - the  continual learning program with a Kindle2  http://bit.ly/1ZLfF,such an awesome idea the continual learning program with a kindle2,Positivo,0.7479319839004367,4,Positivo,104,14,0,1
+ok.. do nothing.. just thinking about 40D,ok do nothing just thinking about 40d,Positivo,0.5898811488580402,2,Neutral,41,7,0,0
+"@faithbabywear Ooooh, what model are you getting??? I have the 40D and LOVE LOVE LOVE LOVE it!",oooh what model are you getting i have the 40d and love love love love it,Positivo,0.6849903362176762,4,Positivo,94,17,0,1
+The Times of India: The wonder that is India's election. http://bit.ly/p7u1H,the times of india the wonder that is indias election,Positivo,0.502442740997753,4,Positivo,76,11,0,0
+http://is.gd/ArUJ Good video from Google on using search options.,good video from google on using search options,Positivo,0.6378514227238418,4,Positivo,65,9,0,0
+@ambcharlesfield lol. Ah my skin is itchy :( damn lawnmowing.,lol ah my skin is itchy damn lawnmowing,Negativo,0.34318036923635836,0,Negativo,61,10,0,1
+itchy back!! dont ya hate it!,itchy back dont ya hate it,Negativo,0.19278056476326605,0,Negativo,29,6,0,0
+Stanford Charity Fashion Show a top draw http://cli.gs/NeNuAH,stanford charity fashion show a top draw,Positivo,0.7253159710121955,4,Positivo,61,8,0,0
+Stanford University?s Facebook Profile is One of the Most Popular Official University Pages - http://tinyurl.com/p5b3fl,stanford universitys facebook profile is one of the most popular official university pages,Positivo,0.6170718169127632,4,Positivo,119,15,0,0
+Lyx is cool.,lyx is cool,Positivo,0.7492489685056498,4,Positivo,12,3,0,0
+SOOO DISSAPOiNTED THEY SENT DANNY GOKEY HOME... YOU STiLL ROCK ...DANNY ... MY HOMETOWN HERO !! YEAH MiLROCKEE!!,soo dissapointed they sent danny gokey home you still rock danny my hometown hero yeah milrockee,Negativo,0.47112839389446676,4,Positivo,112,18,0,0
+"RT @PassionModel 'American Idol' fashion: Adam Lambert tones down, Danny Gokey cute ... http://cli.gs/7JWSHV",rt american idol fashion adam lambert tones down danny gokey cute,Positivo,0.7287664882689635,4,Positivo,108,14,0,1
+@dannygokey I love you DANNY GOKEY!! :),i love you danny gokey,Positivo,0.69800437203941,4,Positivo,39,7,0,1
+RT @justindavey: RT @tweetmeme GM OnStar now instantly sends accident location coordinates to 911 | GPS Obsessed http://bit.ly/16szL1,rt rt gm onstar now instantly sends accident location coordinates to 911 gps obsessed,Positivo,0.563206721001149,2,Neutral,133,18,0,2
+so tired. i didn't sleep well at all last night.,so tired i didnt sleep well at all last night,Negativo,0.26494462960951265,0,Negativo,48,10,0,0
+Boarding plane for San Francisco in 1 hour; 6 hr flight. Blech.,boarding plane for san francisco in 1 hour 6 hr flight blech,Negativo,0.447797095526317,0,Negativo,63,12,0,0
+bonjour San Francisco. My back hurts from last night..,bonjour san francisco my back hurts from last night,Negativo,0.3770704212065803,0,Negativo,54,9,0,0
+"breakers. in San Francisco, CA http://loopt.us/4v88Bw.t",breakers in san francisco ca,Positivo,0.5684554799987489,2,Neutral,55,6,0,0
+Heading to San Francisco,heading to san francisco,Positivo,0.5587879971874921,2,Neutral,24,4,0,0
+With my best girl for a few more hours in San francisco. Mmmmmfamily is wonderful!,with my best girl for a few more hours in san francisco mmmfamily is wonderful,Positivo,0.6298161749916108,4,Positivo,82,15,0,0
+"F*** up big, or go home - AIG",f up big or go home aig,Positivo,0.5238931872227311,0,Negativo,29,8,0,0
+Went to see the Star Trek movie last night.  Very satisfying.,went to see the star trek movie last night very satisfying,Positivo,0.6188941752823105,4,Positivo,61,11,0,0
+"I can't wait, going to see star trek tonight!!",i cant wait going to see star trek tonight,Positivo,0.6818282015825212,4,Positivo,46,9,0,0
+Star Trek was as good as everyone said!!,star trek was as good as everyone said,Positivo,0.6713757392281315,4,Positivo,40,8,0,0
+am loving new malcolm gladwell book - outliers,am loving new malcolm gladwell book outliers,Positivo,0.7051185963856247,4,Positivo,46,8,0,0
+I highly recommend Malcolm Gladwell's 'The Tipping Point.' My next audiobook will probably be one of his as well.,i highly recommend malcolm gladwells the tipping point my next audiobook will probably be one of his as well,Positivo,0.6583749552083669,4,Positivo,113,19,0,0
+Malcolm Gladwell is a genius at tricking people into not realizing he's a fucking idiot,malcolm gladwell is a genius at tricking people into not realizing hes a fucking idiot,Negativo,0.43601208156502735,0,Negativo,87,15,0,0
+"@sportsguy33 hey no offense but malcolm gladwell is a pretenious, annoying cunt and he brings you down. cant read his shit",hey no offense but malcolm gladwell is a pretenious annoying cunt and he brings you down cant read his shit,Negativo,0.4032452110694389,0,Negativo,122,21,0,1
+RT @clashmore: http://bit.ly/SOYv7  Great article by Malcolm Gladwell.,rt great article by malcolm gladwell,Positivo,0.7138204775157354,4,Positivo,70,8,0,1
+I seriously underestimated Malcolm Gladwell.  I want to meet this dude.,i seriously underestimated malcolm gladwell i want to meet this dude,Negativo,0.4315882442379516,4,Positivo,71,11,0,0
+i hate comcast right now. everything is down cable internet &amp; phone....ughh what am i to do,i hate comcast right now everything is down cable internet amp phoneughh what am i to do,Negativo,0.23546945127552996,0,Negativo,95,17,0,0
+Comcast sucks.,comcast sucks,Negativo,0.20545400303024902,0,Negativo,14,2,0,0
+The day I never have to deal with Comcast again will rank as one of the best days of my life.,the day i never have to deal with comcast again will rank as one of the best days of my life,Negativo,0.47106644798490843,0,Negativo,93,21,0,0
+@Dommm did comcast fail again??,did comcast fail again,Negativo,0.29853092981539076,0,Negativo,31,5,0,1
+How do you use the twitter API?... http://bit.ly/4VBhH,how do you use the twitter api,Positivo,0.5457172624800278,2,Neutral,54,8,0,0
+curses the Twitter API limit,curses the twitter api limit,Negativo,0.4317630167732762,0,Negativo,28,5,0,0
+"Now I can see why Dave Winer screams about lack of Twitter API, its limitations and access throttles!",now i can see why dave winer screams about lack of twitter api its limitations and access throttles,Negativo,0.34734297780103435,0,Negativo,101,18,0,0
+testing Twitter API,testing twitter api,Positivo,0.560041463824129,2,Neutral,19,3,0,0
+Arg. Twitter API is making me crazy.,arg twitter api is making me crazy,Negativo,0.3996955063544862,0,Negativo,36,7,0,0
+Testing Twitter API. Remote Update,testing twitter api remote update,Positivo,0.5147361084393394,2,Neutral,34,5,0,0
+I'm really loving the new search site Wolfram/Alpha. Makes Google seem so ... quaint. http://www72.wolframalpha.com/,im really loving the new search site wolframalpha makes google seem so quaint,Positivo,0.6399161319439451,4,Positivo,116,15,0,0
+"#wolfram Alpha SUCKS! Even for researchers the information provided is less than you can get from #google or #wikipedia, totally useless!",wolfram alpha sucks even for researchers the information provided is less than you can get from google or wikipedia totally useless,Negativo,0.4053537316734358,0,Negativo,137,21,3,0
+Off to the NIKE factory!!!,off to the nike factory,Positivo,0.5618616064495371,4,Positivo,26,5,0,0
+New nike muppet commercials are pretty cute. Why do we live together again?,new nike muppet commercials are pretty cute why do we live together again,Positivo,0.6569453504949947,4,Positivo,75,13,0,0
+New blog post: Nike Zoom LeBron Soldier 3 (III) - White / Black - Teal http://bit.ly/rouUS,new blog post nike zoom lebron soldier 3 ii white black teal,Positivo,0.6116243422618061,2,Neutral,90,16,0,0
+New blog post: Nike Trainer 1 http://bit.ly/394bp,new blog post nike trainer 1,Positivo,0.6316066076611322,2,Neutral,49,7,0,0
+@Fraggle312 oh those are awesome! i so wish they weren't owned by nike :(,oh those are awesome i so wish they werent owned by nike,Negativo,0.4260299589360425,0,Negativo,73,14,0,1
+@tonyhawk http://twitpic.com/5c7uj - AWESOME!!! Seeing the show Friday at the Shoreline Amphitheatre. Never seen NIN before. Can't wait. ...,awesome seeing the show friday at the shoreline amphitheatre never seen nin before cant wait,Positivo,0.7117408262710735,4,Positivo,140,19,0,1
+"arhh, It's weka bug. = ="" and I spent almost two hours to find that out. crappy me",arhh its weka bug and i spent almost two hours to find that out crappy me,Negativo,0.27981078832777934,0,Negativo,82,18,0,0
+"@mitzs hey bud :) np I do so love my 50D, although I'd love a 5D mkII more",hey bud np i do so love my 50d although id love a 5d mkii more,Positivo,0.7021726586843111,4,Positivo,74,18,0,1
+@jonduenas @robynlyn just got us a 50D for the office. :D,just got us a 50d for the office d,Positivo,0.5431154760178396,4,Positivo,57,11,0,2
+Just picked up my new Canon 50D...it's beautiful!!  Prepare for some seriously awesome photography!,just picked up my new canon 50dits beautiful prepare for some seriously awesome photography,Positivo,0.7508881577352912,4,Positivo,99,14,0,0
+Just got my new toy. Canon 50D. Love love love it!,just got my new toy canon 50d love love love it,Positivo,0.6936817361277665,4,Positivo,50,11,0,0
+Learning about lambda calculus :),learning about lambda calculus,Positivo,0.5777877994695235,4,Positivo,33,5,0,0
+"#jobs #sittercity Help with taking care of sick child (East Palo Alto, CA) http://tinyurl.com/qwrr2m",jobs sittercity help with taking care of sick child east palo alto ca,Negativo,0.3829729239278781,2,Neutral,100,14,2,0
+I'm moving to East Palo Alto!,im moving to east palo alto,Negativo,0.4682308278060544,4,Positivo,29,6,0,0
+@ atebits I just finished watching your Stanford iPhone Class session. I really appreciate it. You Rock!,atebits i just finished watching your stanford iphone class session i really appreciate it you rock,Positivo,0.6168852747258518,4,Positivo,104,17,0,0
+@jktweet Hi! Just saw your Stanford talk and really liked your advice. Just saying Hi from Singapore (yes the videos do get around),hi just saw your stanford talk and really liked your advice just saying hi from singapore yes the videos do get around,Positivo,0.7113257235361363,4,Positivo,131,23,0,1
+#MBA Admissions Tips Stanford GSB Deadlines and Essay Topics 2009-2010 http://tinyurl.com/pet4fd,mba admissions tips stanford gsb deadlines and essay topics 20092010,Positivo,0.5503380088904472,2,Neutral,96,11,1,0
+Ethics and nonprofits - http://bit.ly/qsXRp  #stanford #socialentrepreneurship,ethics and nonprofits stanford socialentrepreneurship,Positivo,0.5826257347569257,2,Neutral,78,7,2,0
+LAKERS tonight let's go!!!!,lakers tonight lets go,Positivo,0.7540967065113896,4,Positivo,27,4,0,0
+Will the Lakers kick the Nuggets ass tonight?,will the lakers kick the nuggets ass tonight,Positivo,0.6065911697100745,4,Positivo,45,8,0,0
+Oooooooh... North Korea is in troubleeeee! http://bit.ly/19epAH,oooh north korea is in troublee,Positivo,0.5762094216825537,0,Negativo,63,7,0,0
+Wat the heck is North Korea doing!!??!! They just conducted powerful nuclear tests! Follow the link: http://www.msnbc.msn.com/id/30921379,wat the heck is north korea doing they just conducted powerful nuclear tests follow the link,Positivo,0.6235205875289591,0,Negativo,137,17,0,0
+Listening to Obama... Friggin North Korea...,listening to obama friggin north korea,Positivo,0.5191075858186568,0,Negativo,44,6,0,0
+"I just realized we three monkeys in the white Obama.Biden,Pelosi . Sarah Palin 2012",i just realized we three monkeys in the white obamabidenpelosi sarah palin 2012,Negativo,0.4787978665210291,0,Negativo,83,14,0,0
+@foxnews Pelosi should stay in China and never come back.,pelosi should stay in china and never come back,Negativo,0.43048548171602036,0,Negativo,57,10,0,1
+Nancy Pelosi gave the worst commencement speech I've ever heard. Yes I'm still bitter about this,nancy pelosi gave the worst commencement speech ive ever heard yes im still bitter about this,Negativo,0.4151914275131386,0,Negativo,96,16,0,0
+ugh. the amount of times these stupid insects have bitten me. Grr..,ugh the amount of times these stupid insects have bitten me grr,Negativo,0.12519954986632686,0,Negativo,67,12,0,0
+Prettiest insects EVER - Pink Katydids: http://bit.ly/2Upw2p,prettiest insects ever pink katydids,Positivo,0.6193035756733637,4,Positivo,60,7,0,0
+Just got barraged by a horde of insects hungry for my kitchen light. So scary.,just got barraged by a horde of insects hungry for my kitchen light so scary,Negativo,0.36144019857776705,0,Negativo,78,15,0,0
+Just had McDonalds for dinner. :D It was goooood. Big Mac Meal. ;),just had mcdonalds for dinner d it was good big mac meal,Positivo,0.6499788793043827,4,Positivo,66,13,0,0
+AHH YES LOL IMA TELL MY HUBBY TO GO GET ME SUM MCDONALDS =],ahh yes lol ima tell my hubby to go get me sum mcdonalds,Positivo,0.5886912284809396,4,Positivo,59,14,0,0
+Stopped to have lunch at McDonalds. Chicken Nuggetssss! :) yummmmmy.,stopped to have lunch at mcdonalds chicken nuggetss yummy,Positivo,0.584008608488939,4,Positivo,68,10,0,0
+Could go for a lot of McDonalds. i mean A LOT.,could go for a lot of mcdonalds i mean a lot,Positivo,0.5119606739394366,4,Positivo,46,11,0,0
+my exam went good. @HelloLeonie: your prayers worked (:,my exam went good your prayers worked,Positivo,0.5372177382031126,4,Positivo,55,9,0,1
+"Only one exam left, and i am so happy for it :D",only one exam left and i am so happy for it d,Positivo,0.5705696420488148,4,Positivo,47,12,0,0
+Math review. Im going to fail the exam.,math review im going to fail the exam,Negativo,0.32022055426331797,0,Negativo,39,8,0,0
+Colin Powell rocked yesterday on CBS. Cheney needs to shut the hell up and go home.Powell is a man of Honor and served our country proudly,colin powell rocked yesterday on cbs cheney needs to shut the hell up and go homepowell is a man of honor and served our country proudly,Negativo,0.4951585915968499,0,Negativo,138,26,0,0
+obviously not siding with Cheney here: http://bit.ly/19j2d,obviously not siding with cheney here,Positivo,0.5235072256999772,0,Negativo,58,7,0,0
+Absolutely hilarious!!! from @mashable:  http://bit.ly/bccWt,absolutely hilarious from,Positivo,0.7804376780733885,4,Positivo,60,5,0,1
+@mashable I never did thank you for including me in your Top 100 Twitter Authors! You Rock! (&amp; I New Wave :-D) http://bit.ly/EOrFV,i never did thank you for including me in your top 100 twitter authors you rock amp i new wave d,Positivo,0.702750577115978,4,Positivo,134,23,0,1
+Learning jQuery 1.3 Book Review - http://cfbloggers.org/?c=30629,learning jquery 13 book review,Positivo,0.6757339067518457,2,Neutral,64,7,0,0
+RT @shrop: Awesome JQuery reference book for Coda! http://www.macpeeps.com/coda/ #webdesign,rt awesome jquery reference book for coda webdesign,Positivo,0.7855214416571631,4,Positivo,91,10,1,1
+I've been sending e-mails like crazy today to my contacts...does anyone have a contact at Goodby SIlverstein...I'd love to speak to them,ive been sending emails like crazy today to my contactsdoes anyone have a contact at goodby silversteinid love to speak to them,Positivo,0.5644275674764094,4,Positivo,136,22,0,0
+Adobe CS4 commercial by Goodby Silverstein: http://bit.ly/1aikhF,adobe cs4 commercial by goodby silverstein,Positivo,0.538374329991357,2,Neutral,64,7,0,0
+"Goodby, Silverstein's new site... http://www.goodbysilverstein.com/ I enjoy it.",goodby silversteins new site i enjoy it,Positivo,0.7479776285178,4,Positivo,79,8,0,0
+Wow everyone at the Google I/O conference got free G2's with a month of unlimited service,wow everyone at the google io conference got free g2s with a month of unlimited service,Positivo,0.6365269656708814,4,Positivo,89,16,0,0
+@vkerkez dood I got a free google android phone at the I/O conference. The G2!,dood i got a free google android phone at the io conference the g2,Positivo,0.683018002462833,4,Positivo,78,15,0,1
+"@Orli the G2 is amazing btw, a HUGE improvement over the G1",the g2 is amazing btw a huge improvement over the g1,Positivo,0.7196859910610244,4,Positivo,59,12,0,1
+"HTML 5 Demos! Lots of great stuff to come! Yes, I'm excited. :) http://htmlfive.appspot.com #io2009 #googleio",html 5 demos lots of great stuff to come yes im excited io2009 googleio,Positivo,0.7678081067300347,4,Positivo,109,16,2,0
+@googleio http://twitpic.com/62shi - Yay! Happy place! Place place!  I love Google!,yay happy place place place i love google,Positivo,0.8017605332518518,4,Positivo,83,11,0,1
+#GoogleIO | O3D - Bringing 3d graphics to the browser. Very nice tbh. Funfun.,googleio o3d bringing 3d graphics to the browser very nice tbh funfun,Positivo,0.5531977011392568,4,Positivo,77,14,1,0
+"Awesome viral marketing for ""Funny People"" http://www.nbc.com/yo-teach/",awesome viral marketing for funny people,Positivo,0.8066936344732235,4,Positivo,71,7,0,0
+"Watching a programme about the life of Hitler, its only enhancing my geekiness of history.",watching a programme about the life of hitler its only enhancing my geekiness of history,Positivo,0.5818402097183112,2,Neutral,90,15,0,0
+saw night at the museum out of sheer desperation. who is funding these movies?,saw night at the museum out of sheer desperation who is funding these movies,Positivo,0.6677815260453216,0,Negativo,78,14,0,0
+Night At The Museum 2? Pretty furkin good.,night at the museum 2 pretty furkin good,Positivo,0.7371456907215665,4,Positivo,42,8,0,0
+Watching Night at the Museum - giggling.,watching night at the museum giggling,Positivo,0.6941817765020196,4,Positivo,40,7,0,0
+"@pambeeslyjenna Jenna, I went to see Night At The Museum 2 today and I was so surprised to see three cast members from The Office...",jenna i went to see night at the museum 2 today and i was so surprised to see three cast members from the office,Positivo,0.6336268942997227,2,Neutral,132,25,0,1
+About to watch Night at the Museum with Ryan and Stacy,about to watch night at the museum with ryan and stacy,Positivo,0.6564582443051118,2,Neutral,54,11,0,0
+"Getting ready to go watch Night at the Museum 2.  Dum dum, you give me gum gum!",getting ready to go watch night at the museum 2 dum dum you give me gum gum,Positivo,0.5809699332044397,2,Neutral,79,17,0,0
+"Back from seeing 'Star Trek' and 'Night at the Museum.' 'Star Trek' was amazing, but 'Night at the Museum' was; eh.",back from seeing star trek and night at the museum star trek was amazing but night at the museum was eh,Positivo,0.6364546307321948,0,Negativo,115,21,0,0
+just watched night at the museum 2! so stinkin cute!,just watched night at the museum 2 so stinkin cute,Positivo,0.6894205977937815,4,Positivo,52,10,0,0
+"So, Night at the Museum 2 was AWESOME! Much better than part 1. Next weekend we'll see Up.",so night at the museum 2 was awesome much better than part 1 next weekend well see up,Positivo,0.7676848113653842,4,Positivo,90,18,0,0
+"I think I may have a new favorite restaurant. On our way to see ""Night at the Museum 2"".",i think i may have a new favorite restaurant on our way to see night at the museum 2,Positivo,0.7443784551811972,2,Neutral,88,19,0,0
+"UP! was sold out, so i'm seeing Night At The Museum 2. I'm __ years old.",up was sold out so im seeing night at the museum 2 im years old,Positivo,0.5225657864697663,2,Neutral,72,16,0,0
+saw the new Night at the Museum and i loved it. Next is to go see UP in 3D,saw the new night at the museum and i loved it next is to go see up in 3d,Positivo,0.678087182292432,4,Positivo,74,19,0,0
+It is a shame about GM. What if they are forced to make only cars the White House THINKS will sell? What do you think?,it is a shame about gm what if they are forced to make only cars the white house thinks will sell what do you think,Negativo,0.25292168337758586,0,Negativo,118,25,0,0
+"As u may have noticed, not too happy about the GM situation, nor AIG, Lehman, et al",as u may have noticed not too happy about the gm situation nor aig lehman et al,Negativo,0.3734921350990197,0,Negativo,83,17,0,0
+Obama: Nationalization of GM to be short-term   (AP) http://tinyurl.com/md347r,obama nationalization of gm to be shortterm ap,Positivo,0.5551780280271799,2,Neutral,78,9,0,0
+@Pittstock $GM good riddance.  sad though.,gm good riddance sad though,Negativo,0.24572928691384435,0,Negativo,42,6,0,1
+"I Will NEVER Buy a Government Motors Vehicle: Until just recently, I drove GM cars. Since 1988, when I bought a .. http://tinyurl.com/lulsw8",i will never buy a government motors vehicle until just recently i drove gm cars since 1988 when i bought a,Negativo,0.4561068841369097,0,Negativo,140,23,0,0
+Having the old Coca-Cola guy on the GM board is stupid has heck! #tcot #ala,having the old cocacola guy on the gm board is stupid has heck tcot ala,Negativo,0.4734850990239864,0,Negativo,75,15,2,0
+#RantsAndRaves The worst thing about GM (concord / pleasant hill / martinez): is the fucking UAW. ..   http://buzzup.com/4ueb,rantsandraves the worst thing about gm concord pleasant hill martinez is the fucking uaw,Negativo,0.39607943767522075,0,Negativo,125,18,1,0
+"Give a man a fish, u feed him for the day. Teach him to fish, u feed him for life. Buy him GM, and u F**K him over for good.",give a man a fish u feed him for the day teach him to fish u feed him for life buy him gm and u fk him over for good,Negativo,0.489066625048256,0,Negativo,124,30,0,0
+"The more I hear about this GM thing the more angry I get. Billions wasted, more bullshit. All for something like 40k employees and all the..",the more i hear about this gm thing the more angry i get billions wasted more bullshit all for something like 40k employees and all the,Negativo,0.3750979005460693,0,Negativo,140,26,0,0
+@QuantTrader i own a GM car and it is junk as far as quality compared to a honda,i own a gm car and it is junk as far as quality compared to a honda,Negativo,0.49905208325867173,0,Negativo,80,18,0,1
+sad day...bankrupt GM,sad daybankrupt gm,Negativo,0.17565919713260003,0,Negativo,21,3,0,0
+is upset about the whole GM thing. life as i know it is so screwed up,is upset about the whole gm thing life as i know it is so screwed up,Negativo,0.21475124490408984,0,Negativo,69,16,0,0
+whoever is running time warner needs to be repeatedly raped by a rhino so they understand the consequences of putting out shitty cable svcs,whoever is running time warner needs to be repeatedly raped by a rhino so they understand the consequences of putting out shitty cable svcs,Negativo,0.287659961069177,0,Negativo,139,24,0,0
+"Time Warner CEO hints at online fees for magazines      (AP) - Read from Mountain View,United States. Views 16209 http://bit.ly/UdFCH",time warner ceo hints at online fees for magazines ap read from mountain viewunited states views 16209,Positivo,0.5902372546622553,2,Neutral,133,19,0,0
+#WFTB Joining a bit late. My connection was down (boo time warner),wftb joining a bit late my connection was down boo time warner,Negativo,0.42474826537316945,0,Negativo,66,12,1,0
+Cox or Time Warner?  Cox is cheaper and gets a B on dslreports.  TW is more expensive and gets a C.,cox or time warner cox is cheaper and gets a b on dslreports tw is more expensive and gets a c,Negativo,0.4155556143465446,0,Negativo,99,21,0,0
+i am furious with time warner and their phone promotions!,i am furious with time warner and their phone promotions,Negativo,0.48009391606798046,0,Negativo,57,10,0,0
+Just got home from chick-fil-a with the boys. Damn my internets down =( stupid time warner,just got home from chickfila with the boys damn my internets down stupid time warner,Negativo,0.3281087084111876,0,Negativo,90,16,0,0
+could time-warner cable suck more?  NO.,could timewarner cable suck more no,Negativo,0.2297737505442402,0,Negativo,39,6,0,0
+Pissed at Time Warner for causin me to have slow internet problems,pissed at time warner for causin me to have slow internet problems,Negativo,0.21790712257927397,0,Negativo,66,12,0,0
+"@sportsguy33 Ummm, having some Time Warner problems?",umm having some time warner problems,Positivo,0.5361792693939326,0,Negativo,52,7,0,1
+You guys see this?  Why does Time Warner have to suck so much ass?  Really wish I could get U-Verse at my apartment. http://bit.ly/s594j,you guys see this why does time warner have to suck so much ass really wish i could get uverse at my apartment,Negativo,0.2389398190195377,0,Negativo,136,24,0,0
+"RT @sportsguy33 The upside to Time Warner: unhelpful phone operators   superslow on-site service. Crap, that's not an upside.",rt the upside to time warner unhelpful phone operators superslow onsite service crap thats not an upside,Negativo,0.47129450029901787,0,Negativo,125,18,0,1
+"RT @sportsguy33: New Time Warner slogan: ""Time Warner, where we make you long for the days before cable.""",rt new time warner slogan time warner where we make you long for the days before cable,Positivo,0.5670423535157645,0,Negativo,105,18,0,1
+"confirmed: it's Time Warner's fault, not Facebook's, that fb is taking about 3 minutes to load. so tempted to switch to verizon =/",confirmed its time warners fault not facebooks that fb is taking about 3 minutes to load so tempted to switch to verizon,Negativo,0.32592965321351297,0,Negativo,130,23,0,0
+@sportsguy33 Time Warner = epic fail,time warner epic fail,Negativo,0.34370953231239704,0,Negativo,36,6,0,1
+Lawson to head Newedge Hong Kong http://bit.ly/xLQSD #business #china,lawson to head newedge hong kong business china,Positivo,0.5063109339117152,2,Neutral,69,9,2,0
+Weird Piano Guitar House in China! http://u2s.me/72i8,weird piano guitar house in china,Positivo,0.5595913258309465,2,Neutral,53,7,0,0
+Send us your GM/Chevy photos http://tinyurl.com/luzkpq,send us your gmchevy photos,Positivo,0.6504426741753835,2,Neutral,54,6,0,0
+I know. How sad is that?  RT @caseymercier: 1st day of hurricane season. That's less scarey than govt taking over GM.,i know how sad is that rt 1st day of hurricane season thats less scarey than govt taking over gm,Negativo,0.31593482401508877,0,Negativo,117,21,0,1
+"GM files Bankruptcy, not a good sign...",gm files bankruptcy not a good sign,Negativo,0.27127170271932777,0,Negativo,39,7,0,0
+yankees won mets lost. its a good day.,yankees won mets lost its a good day,Negativo,0.4754394976479713,4,Positivo,38,8,0,0
+My dentist appt today was actually quite enjoyable.,my dentist appt today was actually quite enjoyable,Positivo,0.5057006331649948,4,Positivo,51,8,0,0
+I hate the effing dentist.,i hate the effing dentist,Negativo,0.19509641547061818,0,Negativo,26,5,0,0
+@stevemoakler i had a dentist appt this morning and had the same conversation!,i had a dentist appt this morning and had the same conversation,Negativo,0.46533161261189604,2,Neutral,78,13,0,1
+@kirstiealley I hate going to the dentist.. !!!,i hate going to the dentist,Negativo,0.21323392833696303,0,Negativo,47,8,0,1
+i hate the dentist....who invented them anyways?,i hate the dentistwho invented them anyways,Negativo,0.42176242297377303,0,Negativo,48,7,0,0
+this dentist's office is cold :/,this dentists office is cold,Negativo,0.3007221115160686,0,Negativo,32,6,0,0
+Check this video out -- David After Dentist http://bit.ly/47aW2,check this video out david after dentist,Positivo,0.5018496024476736,2,Neutral,63,9,0,0
+First dentist appointment [in years] on Wednesday possibly.,first dentist appointment in years on wednesday possibly,Negativo,0.39903647138506854,2,Neutral,59,8,0,0
+Tom Shanahan's latest column on SDSU and its NCAA Baseball Regional appearance: http://ow.ly/axhu,tom shanahans latest column on sdsu and its ncaa baseball regional appearance,Positivo,0.6263295561828941,2,Neutral,97,13,0,0
+BaseballAmerica.com: Blog: Baseball America Prospects Blog ? Blog ... http://bit.ly/EtT8a,baseballamericacom blog baseball america prospects blog blog,Positivo,0.6493052957125747,2,Neutral,89,10,0,0
+Portland city politics may undo baseball park http://tinyurl.com/lpjquj,portland city politics may undo baseball park,Positivo,0.6283109982628295,2,Neutral,71,8,0,0
+"RT @WaterSISWEB: CA Merced's water bottled by Safeway, resold at a profit: Wells are drying up across the county http://tinyurl.com/mb573s",rt ca merceds water bottled by safeway resold at a profit wells are drying up across the county,Positivo,0.5774268406425453,2,Neutral,138,20,0,1
+dropped her broccoli walking home from safeway! ;( so depressed,dropped her broccoli walking home from safeway so depressed,Negativo,0.1662932310146466,2,Neutral,63,10,0,0
+@ronjon we don't have Safeway.,we dont have safeway,Negativo,0.3197564736430832,2,Neutral,30,5,0,1
+Just applied at Safeway!(: Yeeeee!,just applied at safeway yee,Positivo,0.5586873209390919,4,Positivo,34,5,0,0
+@ Safeway. Place is a nightmare right now. Bumming.,safeway place is a nightmare right now bumming,Negativo,0.3632598001423602,0,Negativo,51,9,0,0
+at safeway with dad,at safeway with dad,Negativo,0.4719454131385773,2,Neutral,19,4,0,0
+"HATE safeway select green tea icecream! bought two cartons, what a waste of money.  &gt;_&lt;",hate safeway select green tea icecream bought two cartons what a waste of money gtlt,Negativo,0.4375591137839138,0,Negativo,93,15,0,0
+"Safeway with Marvin, Janelle, and Auntie Lhu",safeway with marvin janelle and auntie lhu,Positivo,0.5470618648284985,2,Neutral,44,7,0,0
+Safeway offering mobile coupons http://bit.ly/ONH7w,safeway offering mobile coupons,Positivo,0.5430031975254683,2,Neutral,51,5,0,0
+"Phillies Driving in the Cadillac with the Top Down in Cali, Win 5-3 - http://tinyurl.com/nzcjqa",phillies driving in the cadillac with the top down in cali win 53,Positivo,0.5915090402083268,2,Neutral,95,15,0,0
+Saved money by opting for grocery store trip and stocking food in hotel room fridge vs. eating out every night while out of town.,saved money by opting for grocery store trip and stocking food in hotel room fridge vs eating out every night while out of town,Positivo,0.5075674313346626,2,Neutral,129,24,0,0
+"Lounging around, eating Taco Bell and watching NCIS before work tonight. Need help staying awake.",lounging around eating taco bell and watching ncis before work tonight need help staying awake,Negativo,0.4755173335332452,2,Neutral,97,15,0,0
+eating breakfast and then school,eating breakfast and then school,Positivo,0.6001907234588745,2,Neutral,32,5,0,0
+still hungry after eating....,still hungry after eating,Negativo,0.45546678081764164,2,Neutral,29,4,0,0
+10 tips for healthy eating ? ResultsBy Fitness Blog :: Fitness ... http://bit.ly/62gFn,10 tips for healthy eating resultsby fitness blog fitness,Positivo,0.7299539944226722,2,Neutral,86,13,0,0
+"with the boyfriend, eating a quesadilla",with the boyfriend eating a quesadilla,Positivo,0.6033268704324147,2,Neutral,39,6,0,0
+"Eating dinner. Meat, chips, and risotto.",eating dinner meat chips and risotto,Positivo,0.6209243718809799,2,Neutral,40,6,0,0
+got a new pair of nike shoes. pics up later,got a new pair of nike shoes pics up later,Positivo,0.6444189687590838,2,Neutral,43,10,0,0
+"Nike SB Blazer High ""ACG"" Custom - Brad Douglas - http://timesurl.at/45a448",nike sb blazer high acg custom brad douglas,Positivo,0.6525923865345605,2,Neutral,75,11,0,0
+Nike rocks. I'm super grateful for what I've done with them :) &amp; the European Division of NIKE is BEYOND! @whitSTYLES @muchasmuertes,nike rocks im super grateful for what ive done with them amp the european division of nike is beyond,Positivo,0.7325718399780758,4,Positivo,136,22,0,2
+Nike Air Yeezy Khaki/Pink Colorway Release - http://shar.es/bjfN,nike air yeezy khakipink colorway release,Positivo,0.5577080704241602,2,Neutral,64,8,0,0
+@evelynbyrne have you tried Nike  ? V. addictive.,have you tried nike v addictive,Positivo,0.5253349583619097,4,Positivo,49,8,0,1
+@erickoston That looks an awful lot like one of Nike's private jets....I'm just sayin....,that looks an awful lot like one of nikes private jetsim just sayin,Positivo,0.561274633593761,2,Neutral,89,14,0,1
+The Nike Training Club (beta) iPhone app looks very interesting.,the nike training club beta iphone app looks very interesting,Positivo,0.6120936511112229,4,Positivo,64,10,0,0
+argghhhh why won't  my jquery appear in safari bad safari !!!,argghh why wont my jquery appear in safari bad safari,Negativo,0.3078579457060678,0,Negativo,61,11,0,0
+DevSnippets : jQuery Tools - Javascript UI Components for the Web... http://inblogs.org/go/hfuqt,devsnippets jquery tools javascript ui components for the web,Positivo,0.6356046585864039,2,Neutral,96,12,0,0
+"all about Ajax,jquery ,css ,JavaScript and more... (many examples) http://ajaxian.com/",all about ajaxjquery css javascript and more many examples,Positivo,0.5881365476469288,2,Neutral,86,10,0,0
+"I'm ready to drop the pretenses, I am forever in love with jQuery, and I want to marry it. Sorry ladies, this nerd is jquery.spokenFor.js",im ready to drop the pretenses i am forever in love with jquery and i want to marry it sorry ladies this nerd is jqueryspokenforjs,Positivo,0.5597957310442184,4,Positivo,137,25,0,0
+"This is cold.. I was looking at google's chart//visualization API and found this jQuery ""wrapper"" for the API...  http://tinyurl.com/mq52bq",this is cold i was looking at googles chartvisualization api and found this jquery wrapper for the api,Negativo,0.43741014678192924,2,Neutral,139,19,0,0
+I spent most of my day reading a jQuery book. Now to start drinking some delirium tremens.,i spent most of my day reading a jquery book now to start drinking some delirium tremens,Positivo,0.5761101211490323,2,Neutral,90,17,0,0
+jquery Selectors http://codylindley.com/jqueryselectors/,jquery selectors,Positivo,0.5815345648855492,2,Neutral,56,3,0,0
+How to implement a news ticker with jQuery and ten lines of code http://bit.ly/CZnFJ,how to implement a news ticker with jquery and ten lines of code,Positivo,0.5212487502689718,2,Neutral,84,14,0,0
+What's Buffet Doing? Warren Buffett Kicks Butt In Battle of the Boots: Posted By:Alex Crippe.. http://bit.ly/AUIzO,whats buffet doing warren buffett kicks butt in battle of the boots posted byalex crippe,Positivo,0.6117066490127274,2,Neutral,114,16,0,0
+"SUPER INVESTORS: A great weekend read here from Warren Buffet. Oldie, but a goodie. http://tinyurl.com/oqxgga",super investors a great weekend read here from warren buffet oldie but a goodie,Positivo,0.61784835031386,4,Positivo,109,15,0,0
+I'm truly braindead.  I couldn't come up with Warren Buffet's name to save my soul,im truly braindead i couldnt come up with warren buffets name to save my soul,Positivo,0.553772907350543,2,Neutral,82,15,0,0
+"reading Michael Palin book, The Python Years...great book. I also recommend Warren Buffet &amp; Nelson Mandela's bio",reading michael palin book the python yearsgreat book i also recommend warren buffet amp nelson mandelas bio,Positivo,0.6715671140625606,4,Positivo,116,17,0,0
+"I mean, I'm down with Notre Dame if I have to.  It's a good school, I'd be closer to Dan, I'd enjoy it.",i mean im down with notre dame if i have to its a good school id be closer to dan id enjoy it,Positivo,0.5840175776652894,4,Positivo,103,23,0,0
+"I can't watch TV without a Tivo.  And after all these years, the Time/Warner DVR  STILL sucks. http://www.davehitt.com/march03/twdvr.html",i cant watch tv without a tivo and after all these years the timewarner dvr still sucks,Negativo,0.39414648617561027,0,Negativo,137,18,0,0
+I'd say some sports writers are idiots for saying Roger Federer is one of the best ever in Tennis.  Roger Federer is THE best ever in Tennis,id say some sports writers are idiots for saying roger federer is one of the best ever in tennis roger federer is the best ever in tennis,Positivo,0.7011919822969475,4,Positivo,140,27,0,0
+I still love my Kindle2 but reading The New York Times on it does not feel natural. I miss the Bloomingdale ads.,i still love my kindle2 but reading the new york times on it does not feel natural i miss the bloomingdale ads,Negativo,0.31067488530708653,0,Negativo,112,22,0,0
+I love my Kindle2. No more stacks of books to trip over on the way to the loo.,i love my kindle2 no more stacks of books to trip over on the way to the loo,Negativo,0.48092907938841256,4,Positivo,78,18,0,0
+"Although today's keynote rocked, for every great announcement, AT&amp;T shit on us just a little bit more.",although todays keynote rocked for every great announcement atampt shit on us just a little bit more,Positivo,0.5467425931677568,0,Negativo,106,17,0,0
+"@sheridanmarfil - its not so much my obsession with cell phones, but the iphone!  i'm a slave to at&amp;t forever because of it. :)",its not so much my obsession with cell phones but the iphone im a slave to atampt forever because of it,Negativo,0.2736282348142243,0,Negativo,131,24,0,1
+@freitasm oh I see. I thought AT&amp;T were 900MHz WCDMA?,oh i see i thought atampt were 900mhz wcdma,Negativo,0.3516540907601656,2,Neutral,57,10,0,1
+@Plip Where did you read about tethering support Phil?  Just AT&amp;T or will O2 be joining in?,where did you read about tethering support phil just atampt or will o2 be joining in,Positivo,0.5441700978228707,2,Neutral,95,17,0,1
+Fuzzball is more fun than AT&amp;T ;P http://fuzz-ball.com/twitter,fuzzball is more fun than atampt p,Positivo,0.5411803495906958,0,Negativo,66,8,0,0
+"Today is a good day to dislike AT&amp;T. Vote out of office indeed, @danielpunkass",today is a good day to dislike atampt vote out of office indeed,Positivo,0.5104650920017639,0,Negativo,82,14,0,1
+GOT MY WAVE SANDBOX INVITE! Extra excited! Too bad I have class now... but I'll play with it soon enough! #io2009 #wave,got my wave sandbox invite extra excited too bad i have class now but ill play with it soon enough io2009 wave,Positivo,0.5287695081800601,4,Positivo,119,22,2,0
+looks like summize has gone down. too many tweets from WWDC perhaps?,looks like summize has gone down too many tweets from wwdc perhaps,Negativo,0.3649178418942249,0,Negativo,68,12,0,0
+I hope the girl at work  buys my Kindle2,i hope the girl at work buys my kindle2,Negativo,0.4700425602741831,2,Neutral,40,9,0,0
+Missed this insight-filled May column: One smart guy looking closely at why he's impressed with Kindle2 http://bit.ly/i0peY @wroush,missed this insightfilled may column one smart guy looking closely at why hes impressed with kindle2,Positivo,0.6378235177658147,2,Neutral,131,18,0,1
+"@sklososky Thanks so much!!! ...from one of your *very* happy Kindle2 winners ; ) I was so surprised, fabulous. Thank you! Best, Kathleen",thanks so much from one of your very happy kindle2 winners i was so surprised fabulous thank you best kathleen,Positivo,0.8942668618677118,4,Positivo,137,23,0,1
+Man I kinda dislike Apple right now. Case in point: the iPhone 3GS. Wish there was a video recorder app. Please?? http://bit.ly/DZm1T,man i kinda dislike apple right now case in point the iphone 3gs wish there was a video recorder app please,Negativo,0.326350305548193,0,Negativo,133,22,0,0
+@cwong08 I have a Kindle2 (&amp; Sony PRS-500). Like it! Physical device feels good. Font is nice. Pg turns are snappy enuf. UI a little klunky.,i have a kindle2 amp sony prs500 like it physical device feels good font is nice pg turns are snappy enuf ui a little klunky,Positivo,0.6424068942110642,4,Positivo,144,26,0,1
+"The #Kindle2 seems the best eReader, but will it work in the UK and where can I get one?",the kindle2 seems the best ereader but will it work in the uk and where can i get one,Negativo,0.29498265708193194,4,Positivo,88,19,1,0
+"I have a google addiction. Thank you for pointing that out, @annamartin123. Hahaha.",i have a google addiction thank you for pointing that out hahaha,Positivo,0.7901212784598126,4,Positivo,83,13,0,1
+@ruby_gem My primary debit card is Visa Electron.,my primary debit card is visa electron,Positivo,0.5310206308930988,2,Neutral,49,8,0,1
+Off to the bank to get my new visa platinum card,off to the bank to get my new visa platinum card,Negativo,0.4974535617865889,2,Neutral,48,11,0,0
+"dearest @google, you rich bastards! the VISA card you sent me doesn't work. why screw a little guy like me?",dearest you rich bastards the visa card you sent me doesnt work why screw a little guy like me,Negativo,0.31580845585206635,0,Negativo,107,20,0,1
+has a date with bobby flay and gut fieri from food network,has a date with bobby flay and gut fieri from food network,Positivo,0.5442115781327835,2,Neutral,58,12,0,0
+Excited about seeing Bobby Flay and Guy Fieri tomorrow at the Great American Food &amp; Music Fest!,excited about seeing bobby flay and guy fieri tomorrow at the great american food amp music fest,Positivo,0.7257651407464065,4,Positivo,99,17,0,0
+Gonna go see Bobby Flay 2moro at Shoreline. Eat and drink. Gonna be good.,gonna go see bobby flay 2moro at shoreline eat and drink gonna be good,Positivo,0.6527864605497046,4,Positivo,73,14,0,0
+can't wait for the great american food and music festival at shoreline tomorrow.  mmm...katz pastrami and bobby flay. yes please.,cant wait for the great american food and music festival at shoreline tomorrow mmkatz pastrami and bobby flay yes please,Positivo,0.7301805263533196,4,Positivo,129,20,0,0
+"My dad was in NY for a day, we ate at MESA grill last night and met Bobby Flay. So much fun, except I completely lost my voice today.",my dad was in ny for a day we ate at mesa grill last night and met bobby flay so much fun except i completely lost my voice today,Negativo,0.39111578145156883,4,Positivo,133,29,0,0
+Fighting with LaTex. Again...,fighting with latex again,Negativo,0.3875177519636865,0,Negativo,29,4,0,0
+@Iheartseverus we love you too and don't want you to die!!!!!!  Latex = the devil,we love you too and dont want you to die latex the devil,Negativo,0.4470867825802782,0,Negativo,81,15,0,1
+"7 hours. 7 hours of inkscape crashing, normally solid as a rock. 7 hours of LaTeX complaining at the slightest thing. I can't take any more.",7 hours 7 hours of inkscape crashing normally solid as a rock 7 hours of latex complaining at the slightest thing i cant take any more,Negativo,0.46559870419926713,0,Negativo,140,26,0,0
+How to Track Iran with Social Media: http://bit.ly/2BoqU,how to track iran with social media,Positivo,0.5586623484456243,2,Neutral,56,8,0,0
+Shit's hitting the fan in Iran...craziness indeed #iranelection,shits hitting the fan in irancraziness indeed iranelection,Negativo,0.41039016134245027,0,Negativo,63,8,1,0
+Monday already. Iran may implode. Kitchen is a disaster. @annagoss seems happy. @sebulous had a nice weekend and @goldpanda is great. whoop.,monday already iran may implode kitchen is a disaster seems happy had a nice weekend and is great whoop,Positivo,0.663045971712953,0,Negativo,140,22,0,3
+Twitter Stock buzz: $AAPL $ES_F $SPY $SPX $PALM  (updated: 12:00 PM),twitter stock buzz aapl esf spy spx palm updated 1200 pm,Positivo,0.5780847434092292,2,Neutral,68,11,0,0
+getting ready to test out some burger receipes this weekend. Bobby Flay has some great receipes to try. Thanks Bobby.,getting ready to test out some burger receipes this weekend bobby flay has some great receipes to try thanks bobby,Positivo,0.7071173170485264,4,Positivo,117,20,0,0
+@johncmayer is Bobby Flay joining you?,is bobby flay joining you,Positivo,0.6609824662635108,2,Neutral,38,6,0,1
+i lam so in love with Bobby Flay... he is my favorite. RT @terrysimpson: @bflay you need a place in Phoenix. We have great peppers here!,i lam so in love with bobby flay he is my favorite rt you need a place in phoenix we have great peppers here,Positivo,0.7193640646675351,4,Positivo,136,26,0,2
+"I just created my first LaTeX file from scratch. That didn't work out very well. (See @amandabittner , it's a great time waster)",i just created my first latex file from scratch that didnt work out very well see its a great time waster,Negativo,0.42234105553280066,0,Negativo,128,23,0,1
+using Linux and loving it - so much nicer than windows... Looking forward to using the wysiwyg latex editor!,using linux and loving it so much nicer than windows looking forward to using the wysiwyg latex editor,Positivo,0.6859767216877095,4,Positivo,108,19,0,0
+"After using LaTeX a lot, any other typeset mathematics just looks hideous.",after using latex a lot any other typeset mathematics just looks hideous,Positivo,0.5463363362554026,4,Positivo,74,12,0,0
+Ask Programming: LaTeX or InDesign?: submitted by calcio1 [link] [1 comment] http://tinyurl.com/myfmf7,ask programming latex or indesign submitted by calcio1 link 1 comment,Positivo,0.6820970190689749,2,Neutral,102,12,0,0
+"On that note, I hate Word. I hate Pages. I hate LaTeX. There, I said it. I hate LaTeX. All you TEXN3RDS can come kill me now.",on that note i hate word i hate pages i hate latex there i said it i hate latex all you texn3rds can come kill me now,Negativo,0.1983194941346399,0,Negativo,125,27,0,0
+Ahhh... back in a *real* text editing environment. I &lt;3 LaTeX.,ahh back in a real text editing environment i lt3 latex,Positivo,0.583789744467699,4,Positivo,65,11,0,0
+"Trouble in Iran, I see. Hmm. Iran. Iran so far away. #flockofseagullsweregeopoliticallycorrect",trouble in iran i see hmm iran iran so far away flockofseagullsweregeopoliticallycorrect,Negativo,0.17882835183794166,0,Negativo,94,12,1,0
+Reading the tweets coming out of Iran... The whole thing is terrifying and incredibly sad...,reading the tweets coming out of iran the whole thing is terrifying and incredibly sad,Negativo,0.194901628191447,0,Negativo,92,15,0,0

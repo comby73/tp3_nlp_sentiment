@@ -1,0 +1,29 @@
+# ============================================
+# .gitignore para TP3 NLP Sentiment Analysis
+# Universidad de Palermo - Diplomatura IA
+# ============================================
+
+# PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+
+# JUPYTER NOTEBOOK
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# DATOS PESADOS (>100MB - GitHub no permite)
+data/raw/training.1600000.processed.noemoticon.csv
+data/processed/train_processed.csv
+data/vectorized/X_train.pkl
+
+# IDEs
+.vscode/
+.idea/
+
+# SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
