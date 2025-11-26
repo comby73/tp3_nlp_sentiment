@@ -228,4 +228,22 @@ jupyter notebook notebooks/01_eda.ipynb
 Proyecto académico - Universidad de Palermo
 ---
 
-**¿Preguntas?** Contactar a Omar González - Diplomatura en IA (UP)
+## ⚠️ Archivos No Incluidos (por tamaño)
+
+Los siguientes archivos superan el límite de GitHub (100MB) y deben descargarse o regenerarse:
+
+| Archivo | Tamaño | Cómo obtenerlo |
+|---------|--------|----------------|
+| `data/raw/training.1600000.processed.noemoticon.csv` | ~250 MB | [Descargar de Sentiment140](http://help.sentiment140.com/for-students) |
+| `data/processed/train_processed.csv` | ~267 MB | Ejecutar `02_preprocessing.ipynb` |
+| `data/vectorized/X_train.pkl` | ~210 MB | Ejecutar `03_vectorizacion.ipynb` |
+
+### Pasos para regenerar:
+```bash
+# 1. Descargar dataset y colocar en data/raw/
+# 2. Ejecutar notebooks en orden:
+jupyter notebook notebooks/01_eda.ipynb
+jupyter notebook notebooks/02_preprocessing.ipynb
+jupyter notebook notebooks/03_vectorizacion.ipynb
+```
+```
