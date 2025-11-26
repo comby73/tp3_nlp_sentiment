@@ -225,8 +225,7 @@ jupyter notebook notebooks/01_eda.ipynb
 
 ## 📝 Licencia
 
-Proyecto académico - Universidad de Palermo, 2024
-
+Proyecto académico - Universidad de Palermo
 ---
 
 **¿Preguntas?** Contactar a Omar González - Diplomatura en IA (UP)
