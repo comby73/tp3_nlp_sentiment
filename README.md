@@ -35,8 +35,8 @@ El desarrollo sigue la metodología **CRISP-DM** y está estructurado en noteboo
 
 | Métrica | Valor |
 |---------|-------|
-| **F1-Score** | **85.41%** |
-| **Accuracy** | 84.96% |
+| **F1-Score** | **85.18%** |
+| **Accuracy** | 84.68% |
 | **Precision** | 85.07% |
 | **Recall** | 85.71% |
 
@@ -44,7 +44,7 @@ El desarrollo sigue la metodología **CRISP-DM** y está estructurado en noteboo
 
 | Modelo | F1-Score (Test) | Tiempo | Observaciones |
 |--------|-----------------|--------|---------------|
-| **Linear SVM** | **0.8541** | ~12s | ✅ **Mejor balance rendimiento/eficiencia** |
+| **Linear SVM** | **0.8518** | ~12s | ✅ **Mejor balance rendimiento/eficiencia** |
 | Logistic Regression | 0.8420 | ~15s | Baseline robusto |
 | Naive Bayes (Complement) | 0.8180 | ~3s | Más rápido pero menor performance |
 | Random Forest | 0.8150 | ~145s | Costoso computacionalmente |
@@ -124,7 +124,8 @@ tp3_nlp_sentiment/
 - Split: Train (85%) / Validación (15%) / Test (359 tweets)
 - Modelos evaluados: LogReg, SVM, NaiveBayes, RandomForest
 - Selección por F1-Score
-- Re-entrenamiento del mejor modelo con datos completos
+- Re-entrenamiento del mejor modelo con datos completos (Train + Val)
+- Verificación de Overfitting: Diferencia mínima entre métricas de Train y Test
 
 ### 5. Evaluación (`05-09`)
 - Optimización de hiperparámetros (GridSearchCV)
