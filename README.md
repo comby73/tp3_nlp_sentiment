@@ -38,18 +38,6 @@ El desarrollo sigue la metodología **CRISP-DM** y está estructurado en noteboo
 | **F1-Score** | **85.18%** |
 | **Accuracy** | 84.68% |
 | **Precision** | 85.07% |
-| **Recall** | 85.71% |
-
-### Comparación de Modelos Entrenados
-
-| Modelo | F1-Score (Test) | Tiempo | Observaciones |
-|--------|-----------------|--------|---------------|
-| **Linear SVM** | **0.8518** | ~12s | ✅ **Mejor balance rendimiento/eficiencia** |
-| Logistic Regression | 0.8420 | ~15s | Baseline robusto |
-| Naive Bayes (Complement) | 0.8180 | ~3s | Más rápido pero menor performance |
-| Random Forest | 0.8150 | ~145s | Costoso computacionalmente |
-
-### Comparación con Modelos Pre-entrenados
 
 | Modelo | Accuracy | Velocidad | Tipo |
 |--------|----------|-----------|------|
