@@ -25,7 +25,7 @@ try:
 except ImportError:
     UMAP_AVAILABLE = False
 
-from .config import POLARITY_MAP
+from config import POLARITY_MAP
 
 # Configuración de estilo
 sns.set_style("whitegrid")

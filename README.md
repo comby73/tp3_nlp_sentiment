@@ -195,10 +195,20 @@ jupyter notebook notebooks/01_eda.ipynb
 - Tweets con solo URLs o múltiples mentions son propensos a errores
 - El modelo es robusto para tweets de longitud típica (50-140 chars)
 
+### Del Análisis Temporal (Nuevo)
+- **Patrón Nocturno:** Se observa una mayor concentración de tweets negativos en horas de la madrugada (00:00 - 06:00).
+- **Validación de Hipótesis:** Confirma la intuición de que el horario influye en el sentimiento (usuarios más críticos/negativos de noche).
+
 ### Patrones Difíciles
 - **Negaciones complejas:** "how can you not love..." (positivo pero tiene "not")
 - **Sarcasmo/ironía:** Requeriría contexto adicional
 - **Jerga de 2009:** Algunas expresiones han cambiado de significado
+
+### Mejoras Futuras Identificadas
+Aunque el EDA reveló patrones temporales (madrugada más negativa), **no se incluyó la hora como feature en el modelo final** por las siguientes razones:
+1.  **Prioridad del Texto:** El contenido semántico es el predictor dominante (>95% de la señal).
+2.  **Complejidad vs Beneficio:** Incorporar la hora requiere *codificación cíclica* (Seno/Coseno) para evitar distorsiones numéricas (23 vs 0), lo cual aumentaría la complejidad del pipeline para una ganancia marginal estimada.
+3.  **Estrategia:** Se deja planteado como la principal vía de optimización para una futura iteración "v2.0" del modelo.
 
 ---
 
