@@ -139,6 +139,14 @@ El proyecto incluye dos juegos que demuestran las capacidades de **Word2Vec** en
 
 > Estos juegos demuestran cómo Word2Vec captura relaciones semánticas: palabras como "happy", "love", "great" aparecen cercanas en el espacio vectorial.
 
+### 🎓 Justificación Académica (Cumplimiento de Consigna)
+
+Estos juegos no son meros pasatiempos, sino una **validación visual e interactiva** del modelo Word2Vec entrenado en este TP:
+
+1.  **Uso de Resultados:** Los juegos utilizan directamente el archivo `word2vec_model.pkl` generado en el notebook `04_modelado.ipynb` a partir de los 1.6 millones de tweets.
+2.  **Validación Semántica:** Al jugar, se verifica cualitativamente que el modelo ha aprendido relaciones semánticas correctas (ej: asociar "happy" con "joy" y no con "car").
+3.  **Creatividad:** Cumple con la consigna de explorar aplicaciones creativas de los embeddings generados, más allá de la clasificación tradicional.
+
 ---
 
 ## 🚀 Instalación y Uso
