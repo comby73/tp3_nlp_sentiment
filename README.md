@@ -145,7 +145,7 @@ El proyecto incluye dos **juegos con generación procedural de niveles** que dem
 | **Detección** | Horizontal + Vertical + Diagonales (4 direcciones) |
 | **Feedback visual** | Animaciones de explosión al formar palabras |
 
-### 🧠 Demostración del Motor Semántico
+### 🧠 Motor Semántico
 
 Cada notebook incluye una **"Calibración del Motor Semántico"** que demuestra:
 
@@ -168,18 +168,6 @@ Cada notebook incluye una **"Calibración del Motor Semántico"** que demuestra:
 >>> # Palabra: 'FOOD'    → Nivel: SNACKS → PIZZA → SUSHI
 ```
 
-### 🎓 Justificación Académica 
-
-| Pregunta del Profesor | Respuesta |
-|----------------------|-----------|
-| *"¿Podrías haber usado una lista fija?"* | **No.** El juego genera niveles para 57,795 palabras del vocabulario, no solo las 5 que yo elegí. |
-| *"¿Dónde está `most_similar()`?"* | En la función `preparar_datos_tetris()` y `crear_sopa_letras_semantica()`. |
-| *"¿Dónde están las analogías?"* | En la celda "Calibración del Motor Semántico" de cada notebook. |
-| *"¿Los puntos son arbitrarios?"* | **No.** Son `similitud_coseno × 100`, reflejando la distancia semántica real. |
-
-**Concepto técnico:** Estos juegos son **Generadores Procedurales de Niveles basados en Semántica Vectorial**, no juegos con contenido estático.
-
----
 
 ## 🚀 Instalación y Uso
 
