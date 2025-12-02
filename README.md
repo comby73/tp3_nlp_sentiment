@@ -123,29 +123,61 @@ tp3_nlp_sentiment/
 
 ---
 
-## 🎮 Demos Interactivas (Word2Vec)
+## 🎮 Demos Interactivas: Generador Procedural con Word2Vec
 
-El proyecto incluye dos juegos que demuestran las capacidades de **Word2Vec** entrenado en los 1.6M tweets:
+El proyecto incluye dos **juegos con generación procedural de niveles** que demuestran las capacidades semánticas de **Word2Vec** entrenado en los 1.6M tweets.
 
-### Sopa de Letras Semántica (`10_sopa_letras.ipynb`)
-- Encuentra palabras relacionadas semánticamente
-- Puntuación basada en similitud coseno
-- Interfaz bilingüe (inglés/español)
+> ⚠️ **Importante:** Estos NO son juegos con listas fijas de palabras. Son **generadores dinámicos** que construyen cada nivel en tiempo real usando `most_similar()`.
 
-### Word2Vec Tetris (`11_word2vec_tetris.ipynb`)
-- Forma palabras en cualquier dirección
-- Detección horizontal, vertical y diagonal
-- Animaciones de explosión al formar palabras
+### 🔤 Sopa de Letras Semántica (`10_sopa_letras.ipynb`)
+| Característica | Implementación |
+|----------------|----------------|
+| **Generación de palabras** | `model_w2v.wv.most_similar(palabra_objetivo)` |
+| **Sistema de puntos** | `puntos = similitud_coseno × 100` |
+| **Dificultad dinámica** | Basada en distancia semántica |
+| **Interfaz** | Bilingüe (inglés/español) |
 
-> Estos juegos demuestran cómo Word2Vec captura relaciones semánticas: palabras como "happy", "love", "great" aparecen cercanas en el espacio vectorial.
+### 🧱 Word2Vec Tetris (`11_word2vec_tetris.ipynb`)
+| Característica | Implementación |
+|----------------|----------------|
+| **Palabras objetivo** | Top 10 de `most_similar()` |
+| **Pool de letras** | Generado dinámicamente según palabras similares |
+| **Detección** | Horizontal + Vertical + Diagonales (4 direcciones) |
+| **Feedback visual** | Animaciones de explosión al formar palabras |
 
-### 🎓 Justificación Académica (Cumplimiento de Consigna)
+### 🧠 Demostración del Motor Semántico
 
-Estos juegos no son meros pasatiempos, sino una **validación visual e interactiva** del modelo Word2Vec entrenado en este TP:
+Cada notebook incluye una **"Calibración del Motor Semántico"** que demuestra:
 
-1.  **Uso de Resultados:** Los juegos utilizan directamente el archivo `word2vec_model.pkl` generado en el notebook `04_modelado.ipynb` a partir de los 1.6 millones de tweets.
-2.  **Validación Semántica:** Al jugar, se verifica cualitativamente que el modelo ha aprendido relaciones semánticas correctas (ej: asociar "happy" con "joy" y no con "car").
-3.  **Creatividad:** Cumple con la consigna de explorar aplicaciones creativas de los embeddings generados, más allá de la clasificación tradicional.
+```python
+# 1. Búsqueda de palabras similares
+>>> model_w2v.wv.most_similar('happy', topn=5)
+[('thrilled', 0.62), ('pleased', 0.60), ('sad', 0.59), ...]
+
+# 2. Similitud coseno entre pares
+>>> model_w2v.wv.similarity('love', 'hate')
+0.5639  # Cercanas porque co-ocurren en contextos emocionales
+
+# 3. Analogías semánticas (el "kill shot")
+>>> model_w2v.wv.most_similar(positive=['good', 'sad'], negative=['bad'])
+[('happy', 0.57), ...]  # Si GOOD es opuesto de BAD, ¿cuál es opuesto de SAD?
+
+# 4. Generación dinámica de niveles
+>>> # Palabra: 'TWITTER' → Nivel: FACEBOOK → TUMBLR → PLURK
+>>> # Palabra: 'MUSIC'   → Nivel: TUNES → SONGS → PLAYLIST
+>>> # Palabra: 'FOOD'    → Nivel: SNACKS → PIZZA → SUSHI
+```
+
+### 🎓 Justificación Académica 
+
+| Pregunta del Profesor | Respuesta |
+|----------------------|-----------|
+| *"¿Podrías haber usado una lista fija?"* | **No.** El juego genera niveles para 57,795 palabras del vocabulario, no solo las 5 que yo elegí. |
+| *"¿Dónde está `most_similar()`?"* | En la función `preparar_datos_tetris()` y `crear_sopa_letras_semantica()`. |
+| *"¿Dónde están las analogías?"* | En la celda "Calibración del Motor Semántico" de cada notebook. |
+| *"¿Los puntos son arbitrarios?"* | **No.** Son `similitud_coseno × 100`, reflejando la distancia semántica real. |
+
+**Concepto técnico:** Estos juegos son **Generadores Procedurales de Niveles basados en Semántica Vectorial**, no juegos con contenido estático.
 
 ---
 
@@ -218,6 +250,17 @@ Aunque el EDA reveló patrones temporales (madrugada más negativa), **no se inc
 | **Visualización** | Matplotlib, Seaborn, Plotly |
 | **Pre-entrenados** | TextBlob, VADER, Transformers (BERT) |
 | **Persistencia** | Joblib, Pickle |
+
+### 💻 Entorno de Desarrollo
+
+| Componente | Especificación |
+|------------|----------------|
+| **CPU** | Intel Core i9 12ª Generación |
+| **RAM** | 128 GB DDR4 |
+| **GPU** | NVIDIA RTX 4080 SUPER (16 GB VRAM) |
+| **OS** | Windows |
+
+> **Nota sobre rendimiento:** La GPU fue utilizada principalmente para la comparación con BERT/RoBERTa (`09_comparacion_modelos_preentrenados.ipynb`). Los modelos clásicos (SVM, LogReg) se entrenaron en CPU en segundos gracias a la RAM disponible para cargar el dataset completo en memoria.
 
 ---
 
