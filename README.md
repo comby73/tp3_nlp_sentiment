@@ -130,6 +130,7 @@ El proyecto incluye dos **juegos con generación procedural de niveles** que dem
 > ⚠️ **Importante:** Estos NO son juegos con listas fijas de palabras. Son **generadores dinámicos** que construyen cada nivel en tiempo real usando `most_similar()`.
 
 ### 🔤 Sopa de Letras Semántica (`10_sopa_letras.ipynb`)
+
 | Característica | Implementación |
 |----------------|----------------|
 | **Generación de palabras** | `model_w2v.wv.most_similar(palabra_objetivo)` |
@@ -137,36 +138,56 @@ El proyecto incluye dos **juegos con generación procedural de niveles** que dem
 | **Dificultad dinámica** | Basada en distancia semántica |
 | **Interfaz** | Bilingüe (inglés/español) |
 
+**🧮 Modo Analogías:** El jugador debe encontrar 4 palabras en la sopa y descubrir la analogía algebraica que las conecta (ej: `HAPPY - SAD + GOOD = BAD`).
+
 ### 🧱 Word2Vec Tetris (`11_word2vec_tetris.ipynb`)
+
 | Característica | Implementación |
 |----------------|----------------|
 | **Palabras objetivo** | Top 10 de `most_similar()` |
 | **Pool de letras** | Generado dinámicamente según palabras similares |
 | **Detección** | Horizontal + Vertical + Diagonales (4 direcciones) |
 | **Feedback visual** | Animaciones de explosión al formar palabras |
+| **Controles** | Teclas A/S/D + botones en pantalla |
+| **Game Over** | Pantalla épica con efectos visuales |
 
-### 🧠 Motor Semántico
+**🕹️ Controles:**
+- **A** = Mover izquierda ⬅️
+- **D** = Mover derecha ➡️
+- **S** = Acelerar caída ⬇️
 
-Cada notebook incluye una **"Calibración del Motor Semántico"** que demuestra:
+**🌟 Bonus de Analogías:** Cuando el jugador forma pares de palabras opuestas (happy-sad, love-hate), el sistema detecta la analogía y otorga +100 pts bonus.
+
+### 🧠 Motor Semántico Word2Vec
+
+Cada notebook incluye una **"Calibración del Motor Semántico"** que demuestra las 3 capacidades principales:
 
 ```python
-# 1. Búsqueda de palabras similares
+# 1. Búsqueda de palabras similares (most_similar)
 >>> model_w2v.wv.most_similar('happy', topn=5)
 [('thrilled', 0.62), ('pleased', 0.60), ('sad', 0.59), ...]
 
-# 2. Similitud coseno entre pares
+# 2. Similitud coseno entre pares de palabras
 >>> model_w2v.wv.similarity('love', 'hate')
 0.5639  # Cercanas porque co-ocurren en contextos emocionales
 
-# 3. Analogías semánticas (el "kill shot")
+# 3. Analogías algebraicas (A - B + C = D)
 >>> model_w2v.wv.most_similar(positive=['good', 'sad'], negative=['bad'])
-[('happy', 0.57), ...]  # Si GOOD es opuesto de BAD, ¿cuál es opuesto de SAD?
+[('happy', 0.57), ...]  # Resuelve: GOOD - BAD + SAD = ?
 
 # 4. Generación dinámica de niveles
 >>> # Palabra: 'TWITTER' → Nivel: FACEBOOK → TUMBLR → PLURK
 >>> # Palabra: 'MUSIC'   → Nivel: TUNES → SONGS → PLAYLIST
 >>> # Palabra: 'FOOD'    → Nivel: SNACKS → PIZZA → SUSHI
 ```
+
+### 📐 Operaciones Vectoriales Demostradas
+
+| Operación | Función de Gensim | Uso en el Juego |
+|-----------|-------------------|-----------------|
+| Similitud | `wv.most_similar(palabra)` | Genera palabras del nivel |
+| Distancia | `wv.similarity(p1, p2)` | Calcula puntuación |
+| Analogía | `wv.most_similar(positive=[A,C], negative=[B])` | Bonus de analogías |
 
 
 ## 🚀 Instalación y Uso
