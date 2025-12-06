@@ -64,10 +64,11 @@ tp3_nlp_sentiment/
 │   ├── model_metrics.pkl
 │   └── word2vec_model.pkl
 │
-├── 📁 notebooks/               # 11 notebooks (01-11)
+├── 📁 notebooks/               # 12 notebooks (01-12)
 │
 ├── 📁 reports/
 │   ├── figuras/                # Visualizaciones generadas
+│   ├── dashboard_interactivo.html  # Dashboard con Plotly
 │   ├── eda_summary.json
 │   └── informe_tp3.md
 │
@@ -123,11 +124,29 @@ tp3_nlp_sentiment/
 
 ---
 
-## 🎮 Demos Interactivas: Generador Procedural con Word2Vec
+## 🎮 Demos Interactivas y Dashboard
 
-El proyecto incluye dos **juegos con generación procedural de niveles** que demuestran las capacidades semánticas de **Word2Vec** entrenado en los 1.6M tweets.
+El proyecto incluye dos **juegos con generación procedural de niveles** y un **dashboard interactivo** que demuestran las capacidades del análisis.
 
-> ⚠️ **Importante:** Estos NO son juegos con listas fijas de palabras. Son **generadores dinámicos** que construyen cada nivel en tiempo real usando `most_similar()`.
+### 📊 Dashboard Interactivo (`12_dashboard_interactivo.ipynb`)
+
+Un **dashboard HTML con Plotly** que presenta los resultados más importantes del proyecto:
+
+| Gráfico | Descripción |
+|---------|-------------|
+| 📈 KPIs | Total tweets, features, accuracy, F1-score |
+| 🏆 Comparación Modelos | 4 modelos con barras agrupadas |
+| 📊 Features por Polaridad | Boxplots interactivos |
+| 🎭 Distribución | Pie chart de sentimientos |
+| 📏 Longitud Tweets | Histogramas superpuestos |
+| ⚖️ Train vs Test | Comparación de características |
+| 🔤 Top Palabras TF-IDF | Por clase positiva/negativa |
+
+**Output:** `reports/dashboard_interactivo.html` - Abre en cualquier navegador, sin servidor.
+
+---
+
+> ⚠️ **Importante:** Los juegos NO son listas fijas de palabras. Son **generadores dinámicos** que construyen cada nivel en tiempo real usando `most_similar()`.
 
 ### 🔤 Sopa de Letras Semántica (`10_sopa_letras.ipynb`)
 
@@ -209,7 +228,7 @@ pip install gensim
 
 1. **Clonar/descargar** el proyecto
 2. **Descargar** el dataset Sentiment140 y colocarlo en `data/raw/`
-3. **Ejecutar notebooks** en orden numérico (01 → 11)
+3. **Ejecutar notebooks** en orden numérico (01 → 12)
 
 ```bash
 # Para reproducir desde cero:

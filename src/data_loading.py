@@ -12,7 +12,7 @@ import pandas as pd
 from typing import Optional
 import pickle
 
-from config import (
+from src.config import (
     RAW_DATA_DIR, 
     PROCESSED_DATA_DIR, 
     TRAINING_FILE, 

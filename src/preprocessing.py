@@ -18,7 +18,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
-from config import STOP_WORDS_LANGUAGE, MIN_WORD_LENGTH
+from src.config import STOP_WORDS_LANGUAGE, MIN_WORD_LENGTH
 
 # Asegurar que los recursos de NLTK están disponibles
 try:
