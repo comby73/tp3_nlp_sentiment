@@ -69,8 +69,7 @@ tp3_nlp_sentiment/
 ├── 📁 reports/
 │   ├── figuras/                # Visualizaciones generadas
 │   ├── dashboard_interactivo.html  # Dashboard con Plotly
-│   ├── eda_summary.json
-│   └── informe_tp3.md
+│   └── eda_summary.json
 │
 ├── 📁 src/                     # Módulos Python reutilizables
 │   ├── config.py
