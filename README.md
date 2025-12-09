@@ -168,6 +168,7 @@ Un **dashboard HTML con Plotly** que presenta los resultados más importantes de
 | **Feedback visual** | Animaciones de explosión al formar palabras |
 | **Controles** | Teclas A/S/D + botones en pantalla |
 | **Game Over** | Pantalla épica con efectos visuales |
+| **📊 Comparación de Embeddings** | Panel lado a lado: Tu modelo vs GloVe-Twitter |
 
 **🕹️ Controles:**
 - **A** = Mover izquierda ⬅️
@@ -175,6 +176,12 @@ Un **dashboard HTML con Plotly** que presenta los resultados más importantes de
 - **S** = Acelerar caída ⬇️
 
 **🌟 Bonus de Analogías:** Cuando el jugador forma pares de palabras opuestas (happy-sad, love-hate), el sistema detecta la analogía y otorga +100 pts bonus.
+
+**📊 Comparación de Embeddings:** Al formar cada palabra, el juego muestra un panel comparativo entre:
+- 🤖 **Tu Modelo Word2Vec** (entrenado con 1.6M tweets del TP3)
+- 🌐 **GloVe-Twitter** (pre-entrenado con 2 Billion tweets de Stanford)
+
+Esta comparación ilustra las diferencias entre embeddings específicos del dominio vs. embeddings de propósito general.
 
 ### 🧠 Motor Semántico Word2Vec
 
