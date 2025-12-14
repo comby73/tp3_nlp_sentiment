@@ -33,9 +33,10 @@ from sklearn.metrics import (
 
 def train_and_evaluate(model, model_name, X_train, y_train, X_test, y_test):
     """
-    Entrena un modelo y retorna métricas de evaluación.
+    Entrena un modelo y retorna métricas de evaluación en ambos conjuntos (train y test).
+    Evaluar en train permite detectar overfitting comparando con test.
     """
-    print(f"\\n{'='*60}")
+    print(f"\n{'='*60}")
     print(f"MODELO: {model_name}")
     print(f"{'='*60}")
     
@@ -46,36 +47,83 @@ def train_and_evaluate(model, model_name, X_train, y_train, X_test, y_test):
     train_time = time.time() - start_time
     print(f"✓ Entrenado en {train_time:.2f} segundos")
     
-    # Predecir
-    print("Prediciendo...")
+    # Predecir en TRAIN
+    print("Prediciendo en conjunto de TRAIN...")
     start_time = time.time()
-    y_pred = model.predict(X_test)
-    pred_time = time.time() - start_time
-    print(f"✓ Predicción completada en {pred_time:.2f} segundos")
+    y_pred_train = model.predict(X_train)
+    pred_time_train = time.time() - start_time
+    print(f"✓ Predicción en train completada en {pred_time_train:.2f} segundos")
     
-    # Calcular métricas
-    accuracy = accuracy_score(y_test, y_pred)
-    precision = precision_score(y_test, y_pred, pos_label=1)
-    recall = recall_score(y_test, y_pred, pos_label=1)
-    f1 = f1_score(y_test, y_pred, pos_label=1)
+    # Predecir en TEST
+    print("Prediciendo en conjunto de TEST...")
+    start_time = time.time()
+    y_pred_test = model.predict(X_test)
+    pred_time_test = time.time() - start_time
+    print(f"✓ Predicción en test completada en {pred_time_test:.2f} segundos")
     
-    print(f"\\n📊 MÉTRICAS:")
-    print(f"  Accuracy:  {accuracy:.4f} ({accuracy*100:.2f}%)")
-    print(f"  Precision: {precision:.4f}")
-    print(f"  Recall:    {recall:.4f}")
-    print(f"  F1-Score:  {f1:.4f}")
+    # Calcular métricas en TRAIN
+    train_accuracy = accuracy_score(y_train, y_pred_train)
+    train_precision = precision_score(y_train, y_pred_train, pos_label=1)
+    train_recall = recall_score(y_train, y_pred_train, pos_label=1)
+    train_f1 = f1_score(y_train, y_pred_train, pos_label=1)
+    
+    # Calcular métricas en TEST
+    test_accuracy = accuracy_score(y_test, y_pred_test)
+    test_precision = precision_score(y_test, y_pred_test, pos_label=1)
+    test_recall = recall_score(y_test, y_pred_test, pos_label=1)
+    test_f1 = f1_score(y_test, y_pred_test, pos_label=1)
+    
+    print("\n📊 MÉTRICAS EN TRAIN:")
+    print(f"  Accuracy:  {train_accuracy:.4f} ({train_accuracy*100:.2f}%)")
+    print(f"  Precision: {train_precision:.4f}")
+    print(f"  Recall:    {train_recall:.4f}")
+    print(f"  F1-Score:  {train_f1:.4f}")
+    
+    print("\n📊 MÉTRICAS EN TEST:")
+    print(f"  Accuracy:  {test_accuracy:.4f} ({test_accuracy*100:.2f}%)")
+    print(f"  Precision: {test_precision:.4f}")
+    print(f"  Recall:    {test_recall:.4f}")
+    print(f"  F1-Score:  {test_f1:.4f}")
+    
+    # Análisis de overfitting
+    f1_diff = train_f1 - test_f1
+    print("\n🔍 ANÁLISIS DE GENERALIZACIÓN:")
+    print(f"  Diferencia F1 (Train - Test): {f1_diff:+.4f}")
+    if f1_diff > 0.05:
+        print(f"  ⚠️ Posible overfitting: Train F1 > Test F1 en {f1_diff:.4f}")
+    elif f1_diff < -0.05:
+        print("  ✅ Test superior a Train (buena generalización)")
+    else:
+        print("  ✅ Modelo generaliza bien (diferencia < 5%)")
     
     # Retornar resultados
+    # Mantenemos compatibilidad con código existente usando métricas de test
     return {
         'model': model,
         'model_name': model_name,
-        'y_pred': y_pred,
-        'accuracy': accuracy,
-        'precision': precision,
-        'recall': recall,
-        'f1': f1,
+        'y_pred': y_pred_test,  # Compatibilidad: y_pred es de test
+        'y_pred_train': y_pred_train,
+        'y_pred_test': y_pred_test,
+        # Métricas de TEST (para compatibilidad con comparaciones existentes)
+        'accuracy': test_accuracy,
+        'precision': test_precision,
+        'recall': test_recall,
+        'f1': test_f1,
+        # Métricas de TRAIN
+        'train_accuracy': train_accuracy,
+        'train_precision': train_precision,
+        'train_recall': train_recall,
+        'train_f1': train_f1,
+        # Métricas de TEST (con prefijo explícito)
+        'test_accuracy': test_accuracy,
+        'test_precision': test_precision,
+        'test_recall': test_recall,
+        'test_f1': test_f1,
+        # Tiempos
         'train_time': train_time,
-        'pred_time': pred_time
+        'pred_time': pred_time_test,
+        'pred_time_train': pred_time_train,
+        'pred_time_test': pred_time_test
     }
 
 

@@ -111,9 +111,34 @@ tp3_nlp_sentiment/
 ### 4. Modelado (`04_modelado.ipynb`)
 - Split: Train (85%) / Validación (15%) / Test (359 tweets)
 - Modelos evaluados: LogReg, SVM, NaiveBayes, RandomForest
-- Selección por F1-Score
+- **Evaluación en ambos conjuntos (Train y Test)** para detectar overfitting
+- Selección por F1-Score en Test
 - Re-entrenamiento del mejor modelo con datos completos (Train + Val)
-- Verificación de Overfitting: Diferencia mínima entre métricas de Train y Test
+
+#### 📊 Resultados de Evaluación Train vs Test
+
+| Modelo | Train F1 | Test F1 | Δ (Train-Test) | Estado |
+|--------|----------|---------|----------------|--------|
+| Linear SVM | 0.7995 | 0.7963 | +0.0032 | ✅ OK |
+| Logistic Regression | 0.7380 | 0.7383 | -0.0002 | ✅ OK |
+| Random Forest | 0.7159 | 0.7143 | +0.0017 | ✅ OK |
+| Naive Bayes | 0.6833 | 0.6820 | +0.0014 | ✅ OK |
+
+> **Conclusión:** Ningún modelo presenta overfitting (diferencias < 5%). El modelo generaliza correctamente.
+
+#### 📈 Visualizaciones de Comparación
+
+<p align="center">
+  <img src="reports/figuras/model_comparison_train_test.png" alt="Comparación Train vs Test" width="800"/>
+</p>
+
+*Gráfico superior izquierdo: Comparación Train vs Test F1 para detectar overfitting. Gráfico inferior derecho: Análisis de diferencias (Δ F1).*
+
+<p align="center">
+  <img src="reports/confusion_matrices_comparison.png" alt="Matrices de Confusión" width="700"/>
+</p>
+
+*Matrices de confusión del mejor modelo (Linear SVM) en Validación y Test.*
 
 ### 5. Evaluación (`05-09`)
 - Optimización de hiperparámetros (GridSearchCV)
@@ -138,7 +163,7 @@ Un **dashboard HTML con Plotly** que presenta los resultados más importantes de
 | 📊 Features por Polaridad | Boxplots interactivos |
 | 🎭 Distribución | Pie chart de sentimientos |
 | 📏 Longitud Tweets | Histogramas superpuestos |
-| ⚖️ Train vs Test | Comparación de características |
+| ⚖️ Train vs Test | Métricas por modelo (F1, Accuracy, Precision, Recall) |
 | 🔤 Top Palabras TF-IDF | Por clase positiva/negativa |
 
 **Output:** `reports/dashboard_interactivo.html` - Abre en cualquier navegador, sin servidor.
