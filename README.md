@@ -35,13 +35,14 @@ El desarrollo sigue la metodología **CRISP-DM** y está estructurado en noteboo
 
 | Métrica | Valor |
 |---------|-------|
-| **F1-Score** | **85.18%** |
-| **Accuracy** | 84.68% |
-| **Precision** | 85.07% |
+| **F1-Score** | **85.41%** |
+| **Accuracy** | 84.96% |
+| **Precision** | 84.04% |
+| **Recall** | 86.81% |
 
 | Modelo | Accuracy | Velocidad | Tipo |
 |--------|----------|-----------|------|
-| **Nuestro SVM** | 84.68% | ⚡ Muy rápida | Entrenado específicamente |
+| **Nuestro SVM** | 84.96% | ⚡ Muy rápida | Entrenado específicamente |
 | TextBlob | ~65% | ⚡ Rápida | Basado en reglas |
 | VADER | ~71% | ⚡ Rápida | Optimizado para redes sociales |
 | BERT (RoBERTa) | **94.57%** | 🐢 Lenta (50x) | Transformer pre-entrenado |
